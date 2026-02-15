@@ -11,3 +11,12 @@ export const mealTargets = {
   // Grasas totales, priorizando fuentes de buena calidad.
   fat: { min: 10, max: 25 }
 };
+
+// Perfil "dieta": mismos adultos pero buscando déficit moderado.
+// Plato algo más bajo en kcal, manteniendo buena proteína.
+export const dietMealTargets = {
+  kcal: { min: 350, max: 550 },
+  protein: { min: 23, max: 40 },
+  carbs: { min: 25, max: 55 },
+  fat: { min: 8, max: 22 }
+};
