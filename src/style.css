@@ -4,8 +4,8 @@
   font-weight: 400;
 
   color-scheme: light dark;
-  color: rgba(255, 255, 255, 0.9);
-  background-color: #0f1115;
+  color: rgba(255, 255, 255, 0.96);
+  background-color: #05070a;
 
   font-synthesis: none;
   text-rendering: optimizeLegibility;
@@ -66,7 +66,7 @@ h2 {
 }
 
 .muted {
-  color: rgba(255, 255, 255, 0.7);
+  color: rgba(255, 255, 255, 0.82);
 }
 
 .small {
@@ -78,11 +78,63 @@ h2 {
 }
 
 .chip {
-  border: 1px solid rgba(255, 255, 255, 0.14);
+  border: 1px solid rgba(255, 255, 255, 0.22);
   border-radius: 999px;
   padding: 8px 12px;
   font-size: 0.9rem;
-  color: rgba(255, 255, 255, 0.8);
+  color: rgba(255, 255, 255, 0.9);
+}
+
+/* Tab Navigation */
+.tabNav {
+  display: flex;
+  gap: 8px;
+  border-bottom: 2px solid rgba(255, 255, 255, 0.1);
+  padding-bottom: 8px;
+}
+
+.tabBtn {
+  padding: 10px 20px;
+  font-size: 1rem;
+  font-weight: 500;
+  background: transparent;
+  border: none;
+  border-radius: 6px 6px 0 0;
+  color: rgba(255, 255, 255, 0.7);
+  cursor: pointer;
+  transition: all 0.2s ease;
+  border-bottom: 2px solid transparent;
+}
+
+.tabBtn:hover {
+  background: rgba(255, 255, 255, 0.05);
+  color: rgba(255, 255, 255, 0.9);
+}
+
+.tabBtn.active {
+  color: #4f9fff;
+  border-bottom-color: #4f9fff;
+  background: rgba(79, 159, 255, 0.1);
+}
+
+.tabContent {
+  display: block;
+  animation: fadeIn 0.3s ease;
+}
+
+.tabContent.hidden {
+  display: none;
+}
+
+@keyframes fadeIn {
+  from {
+    opacity: 0;
+    transform: translateY(-10px);
+  }
+  to {
+    opacity: 1;
+    transform: translateY(0);
+  }
 }
 
 .grid {
@@ -98,8 +150,8 @@ h2 {
 }
 
 .panel {
-  border: 1px solid rgba(255, 255, 255, 0.12);
-  background: rgba(255, 255, 255, 0.04);
+  border: 1px solid rgba(255, 255, 255, 0.22);
+  background: #141820;
   border-radius: 14px;
   padding: 14px;
 }
@@ -112,22 +164,22 @@ h2 {
 
 label {
   font-size: 0.95rem;
-  color: rgba(255, 255, 255, 0.8);
+  color: #ffffff;
 }
 
 select {
   width: 100%;
   border-radius: 10px;
-  border: 1px solid rgba(255, 255, 255, 0.14);
+  border: 1px solid rgba(255, 255, 255, 0.22);
   padding: 10px 12px;
-  background: rgba(0, 0, 0, 0.25);
+  background: rgba(0, 0, 0, 0.32);
   color: inherit;
 }
 
 .plate {
   min-height: 120px;
   border-radius: 12px;
-  border: 1px dashed rgba(255, 255, 255, 0.18);
+  border: 1px dashed rgba(255, 255, 255, 0.28);
   padding: 12px;
 }
 
@@ -170,15 +222,15 @@ select {
 }
 
 .kpi {
-  border: 1px solid rgba(255, 255, 255, 0.12);
+  border: 1px solid rgba(255, 255, 255, 0.2);
   border-radius: 12px;
   padding: 10px 12px;
-  background: rgba(255, 255, 255, 0.03);
+  background: rgba(255, 255, 255, 0.08);
 }
 
 .kpiLabel {
   font-size: 0.85rem;
-  color: rgba(255, 255, 255, 0.7);
+  color: rgba(255, 255, 255, 0.86);
 }
 
 .kpiValue {
@@ -189,25 +241,25 @@ select {
 .hint {
   margin: 10px 0 0 0;
   font-size: 0.9rem;
-  color: rgba(255, 255, 255, 0.65);
+  color: rgba(255, 255, 255, 0.88);
 }
 
 .evalBox {
   margin-top: 14px;
   border-radius: 12px;
   padding: 10px 12px;
-  border: 1px solid rgba(255, 255, 255, 0.16);
-  background: rgba(20, 180, 120, 0.08);
+  border: 1px solid rgba(255, 255, 255, 0.2);
+  background: rgba(20, 180, 120, 0.1);
 }
 
 .eval-low {
-  background: rgba(240, 180, 40, 0.08);
-  border-color: rgba(240, 180, 40, 0.5);
+  background: rgba(240, 180, 40, 0.1);
+  border-color: rgba(240, 180, 40, 0.6);
 }
 
 .eval-high {
-  background: rgba(220, 70, 70, 0.08);
-  border-color: rgba(220, 70, 70, 0.6);
+  background: rgba(220, 70, 70, 0.12);
+  border-color: rgba(220, 70, 70, 0.7);
 }
 
 .eval-mixed {
@@ -230,19 +282,93 @@ select {
   margin-top: 4px;
 }
 
+/* Action Buttons */
+.actionButtons {
+  display: flex;
+  gap: 10px;
+  margin-top: 16px;
+  flex-wrap: wrap;
+}
+
+.btnExport,
+.btnShare {
+  flex: 1;
+  min-width: 160px;
+  padding: 12px 16px;
+  border-radius: 10px;
+  border: 1px solid rgba(255, 255, 255, 0.2);
+  background: rgba(255, 255, 255, 0.08);
+  color: rgba(255, 255, 255, 0.95);
+  font-size: 0.95rem;
+  font-weight: 500;
+  cursor: pointer;
+  transition: all 0.2s ease;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  gap: 8px;
+}
+
+.btnExport:hover,
+.btnShare:hover {
+  background: rgba(255, 255, 255, 0.15);
+  border-color: rgba(255, 255, 255, 0.3);
+  transform: translateY(-1px);
+}
+
+.btnExport:active,
+.btnShare:active {
+  transform: translateY(0);
+}
+
+.btnExport.success {
+  background: rgba(34, 197, 94, 0.15);
+  border-color: rgba(34, 197, 94, 0.4);
+  color: #22c55e;
+}
+
+.btnShare {
+  background: rgba(37, 211, 102, 0.12);
+  border-color: rgba(37, 211, 102, 0.3);
+}
+
+.btnShare:hover {
+  background: rgba(37, 211, 102, 0.2);
+  border-color: rgba(37, 211, 102, 0.5);
+}
+
+@media (max-width: 600px) {
+  .actionButtons {
+    flex-direction: column;
+  }
+  
+  .btnExport,
+  .btnShare {
+    min-width: 100%;
+  }
+}
+
 .refBox {
   margin-top: 10px;
-  max-height: 280px;
+  max-height: 400px;
   overflow: auto;
   border-radius: 12px;
-  border: 1px solid rgba(255, 255, 255, 0.12);
-  background: rgba(0, 0, 0, 0.18);
+  border: 1px solid rgba(255, 255, 255, 0.2);
+  background: rgba(0, 0, 0, 0.26);
+  padding: 4px 0;
 }
 
 .refItem {
-  padding: 10px 12px;
+  padding: 8px 16px;
   border-bottom: 1px solid rgba(255, 255, 255, 0.08);
-  color: rgba(255, 255, 255, 0.82);
+  color: rgba(255, 255, 255, 0.94);
+  font-size: 0.95rem;
+  line-height: 1.6;
+}
+
+.refItem strong {
+  color: #4f9fff;
+  font-weight: 600;
 }
 
 .refItem:last-child {
@@ -272,7 +398,7 @@ select {
 
 button {
 	border-radius: 10px;
-	border: 1px solid rgba(255, 255, 255, 0.14);
+  border: 1px solid rgba(255, 255, 255, 0.22);
 	padding: 0.6em 1.0em;
 	font-size: 1em;
 	font-weight: 600;
@@ -280,6 +406,547 @@ button {
 	background-color: rgba(255, 255, 255, 0.05);
 	color: inherit;
 	cursor: pointer;
+}
+
+/* Platos completos */
+
+.completeList {
+	display: grid;
+	grid-template-columns: 1fr;
+	gap: 14px;
+	margin-top: 12px;
+}
+
+@media (min-width: 720px) {
+	.completeList {
+		grid-template-columns: 1fr 1fr;
+	}
+}
+
+@media (min-width: 1020px) {
+	.completeList {
+		grid-template-columns: 1fr 1fr 1fr;
+	}
+}
+
+.completeCard {
+	border: 1px solid rgba(255, 255, 255, 0.18);
+	border-radius: 12px;
+	padding: 12px;
+	background: rgba(0, 0, 0, 0.15);
+	display: flex;
+	flex-direction: column;
+	gap: 8px;
+}
+
+.completeCardHeader {
+	display: flex;
+	justify-content: space-between;
+	align-items: center;
+	gap: 8px;
+}
+
+.completeName {
+	font-weight: 650;
+	font-size: 1rem;
+}
+
+.completeGoalTag {
+	background: rgba(100, 180, 255, 0.12);
+	color: rgba(150, 200, 255, 0.95);
+	font-size: 0.75rem;
+	padding: 4px 8px;
+	border-radius: 6px;
+	border: 1px solid rgba(100, 180, 255, 0.3);
+	white-space: nowrap;
+}
+
+.completeDesc {
+	color: rgba(255, 255, 255, 0.8);
+}
+
+.btnLoadPlate {
+	margin-top: 6px;
+	background: rgba(100, 180, 255, 0.12);
+	border-color: rgba(100, 180, 255, 0.4);
+	color: rgba(200, 230, 255, 0.98);
+	transition: all 0.2s;
+}
+
+.btnLoadPlate:hover {
+	background: rgba(100, 180, 255, 0.2);
+	border-color: rgba(100, 180, 255, 0.6);
+}
+
+.completeVariations {
+	margin-top: 4px;
+	font-size: 0.9rem;
+}
+
+.completeVariations summary {
+	cursor: pointer;
+	color: rgba(255, 255, 255, 0.75);
+	padding: 4px 0;
+	user-select: none;
+}
+
+.completeVariations summary:hover {
+	color: rgba(255, 255, 255, 0.95);
+}
+
+.variationList {
+	margin: 8px 0 0 18px;
+	padding: 0;
+	color: rgba(255, 255, 255, 0.8);
+}
+
+.variationList li {
+	margin-bottom: 4px;
+}
+
+/* Dieta Especial - Hipotiroidismo */
+.special-diet {
+	background: linear-gradient(135deg, rgba(79, 159, 255, 0.08), rgba(147, 51, 234, 0.08));
+	border: 1px solid rgba(79, 159, 255, 0.3);
+}
+
+.diet-header {
+	margin-bottom: 20px;
+}
+
+.diet-header h2 {
+	margin-bottom: 8px;
+	font-size: 1.5rem;
+	color: rgba(255, 255, 255, 0.95);
+}
+
+.diet-info {
+	margin-top: 12px;
+}
+
+.diet-guidelines {
+	margin-top: 12px;
+	border: 1px solid rgba(255, 255, 255, 0.15);
+	border-radius: 10px;
+	padding: 12px;
+	background: rgba(0, 0, 0, 0.2);
+}
+
+.diet-guidelines summary {
+	cursor: pointer;
+	font-weight: 600;
+	color: #4f9fff;
+	list-style: none;
+	display: flex;
+	align-items: center;
+	gap: 8px;
+}
+
+.diet-guidelines summary::before {
+	content: '▶';
+	display: inline-block;
+	transition: transform 0.2s ease;
+}
+
+.diet-guidelines[open] summary::before {
+	transform: rotate(90deg);
+}
+
+.diet-guidelines summary:hover {
+	color: #6ba6ff;
+}
+
+.guidelines-content {
+	margin-top: 12px;
+	padding-top: 12px;
+	border-top: 1px solid rgba(255, 255, 255, 0.1);
+}
+
+.guidelines-content h4 {
+	margin: 0 0 10px 0;
+	color: rgba(255, 255, 255, 0.9);
+}
+
+.guidelines-content ul {
+	margin: 8px 0;
+	padding-left: 20px;
+}
+
+.guidelines-content li {
+	margin-bottom: 8px;
+	line-height: 1.5;
+	color: rgba(255, 255, 255, 0.85);
+}
+
+.completeGoalTag.healthy {
+	background: rgba(34, 197, 94, 0.15);
+	border: 1px solid rgba(34, 197, 94, 0.4);
+	color: #22c55e;
+}
+
+/* Planificador Semanal */
+.weekPlan {
+	display: grid;
+	grid-template-columns: 1fr;
+	gap: 16px;
+	margin-top: 16px;
+}
+
+@media (min-width: 800px) {
+	.weekPlan {
+		grid-template-columns: repeat(2, 1fr);
+	}
+}
+
+@media (min-width: 1100px) {
+	.weekPlan {
+		grid-template-columns: repeat(3, 1fr);
+	}
+}
+
+.dayCard {
+	border: 1px solid rgba(255, 255, 255, 0.2);
+	border-radius: 12px;
+	padding: 14px;
+	background: rgba(255, 255, 255, 0.04);
+	transition: all 0.2s ease;
+}
+
+.dayCard:hover {
+	background: rgba(255, 255, 255, 0.06);
+	border-color: rgba(255, 255, 255, 0.3);
+}
+
+.dayHeader {
+	display: flex;
+	justify-content: space-between;
+	align-items: center;
+	margin-bottom: 12px;
+}
+
+.dayName {
+	margin: 0;
+	font-size: 1.1rem;
+	font-weight: 600;
+	color: #4f9fff;
+}
+
+.btnSelectPlate {
+	padding: 6px 12px;
+	font-size: 0.85rem;
+	background: rgba(79, 159, 255, 0.12);
+	border: 1px solid rgba(79, 159, 255, 0.3);
+	color: #4f9fff;
+	border-radius: 8px;
+	cursor: pointer;
+	transition: all 0.2s ease;
+}
+
+.btnSelectPlate:hover {
+	background: rgba(79, 159, 255, 0.2);
+	border-color: rgba(79, 159, 255, 0.5);
+}
+
+.dayContent {
+	min-height: 80px;
+}
+
+.emptyDay {
+	display: flex;
+	align-items: center;
+	justify-content: center;
+	min-height: 80px;
+	color: rgba(255, 255, 255, 0.5);
+	font-style: italic;
+	font-size: 0.9rem;
+}
+
+.dayPlate {
+	background: rgba(255, 255, 255, 0.06);
+	border-radius: 8px;
+	padding: 12px;
+}
+
+.dayPlateName {
+	font-weight: 600;
+	font-size: 1rem;
+	margin-bottom: 6px;
+	color: rgba(255, 255, 255, 0.95);
+}
+
+.dayPlateIngredients {
+	margin-bottom: 8px;
+	line-height: 1.4;
+}
+
+.dayPlateMacros {
+	color: rgba(255, 255, 255, 0.8);
+	font-weight: 500;
+	margin-bottom: 10px;
+}
+
+.btnRemoveDay {
+	padding: 4px 10px;
+	font-size: 0.8rem;
+	background: rgba(220, 70, 70, 0.12);
+	border: 1px solid rgba(220, 70, 70, 0.3);
+	color: #dc4646;
+	border-radius: 6px;
+	cursor: pointer;
+	transition: all 0.2s ease;
+}
+
+.btnRemoveDay:hover {
+	background: rgba(220, 70, 70, 0.2);
+	border-color: rgba(220, 70, 70, 0.5);
+}
+
+.weekActions {
+	display: flex;
+	gap: 12px;
+	margin-top: 24px;
+	flex-wrap: wrap;
+}
+
+.btnExportWeek,
+.btnShareWeek,
+.btnClearWeek {
+	flex: 1;
+	min-width: 140px;
+	padding: 12px 16px;
+	border-radius: 10px;
+	border: 1px solid rgba(255, 255, 255, 0.2);
+	background: rgba(255, 255, 255, 0.08);
+	color: rgba(255, 255, 255, 0.95);
+	font-size: 0.95rem;
+	font-weight: 500;
+	cursor: pointer;
+	transition: all 0.2s ease;
+}
+
+.btnExportWeek:hover,
+.btnShareWeek:hover {
+	background: rgba(255, 255, 255, 0.15);
+	border-color: rgba(255, 255, 255, 0.3);
+	transform: translateY(-1px);
+}
+
+.btnExportWeek.success {
+	background: rgba(34, 197, 94, 0.15);
+	border-color: rgba(34, 197, 94, 0.4);
+	color: #22c55e;
+}
+
+.btnShareWeek {
+	background: rgba(37, 211, 102, 0.12);
+	border-color: rgba(37, 211, 102, 0.3);
+}
+
+.btnShareWeek:hover {
+	background: rgba(37, 211, 102, 0.2);
+	border-color: rgba(37, 211, 102, 0.5);
+}
+
+.btnClearWeek {
+	background: rgba(220, 70, 70, 0.1);
+	border-color: rgba(220, 70, 70, 0.3);
+	color: #ef4444;
+}
+
+.btnClearWeek:hover {
+	background: rgba(220, 70, 70, 0.2);
+	border-color: rgba(220, 70, 70, 0.5);
+	transform: translateY(-1px);
+}
+
+/* Modal */
+.modal {
+	position: fixed;
+	top: 0;
+	left: 0;
+	right: 0;
+	bottom: 0;
+	background: rgba(0, 0, 0, 0.7);
+	display: flex;
+	align-items: center;
+	justify-content: center;
+	z-index: 1000;
+	padding: 20px;
+	animation: fadeIn 0.2s ease;
+}
+
+.modal.hidden {
+	display: none;
+}
+
+.modalContent {
+	background: #0a0c10;
+	border: 1px solid rgba(255, 255, 255, 0.2);
+	border-radius: 16px;
+	max-width: 800px;
+	width: 100%;
+	max-height: 80vh;
+	overflow: hidden;
+	display: flex;
+	flex-direction: column;
+	animation: slideUp 0.3s ease;
+}
+
+@keyframes slideUp {
+	from {
+		opacity: 0;
+		transform: translateY(30px);
+	}
+	to {
+		opacity: 1;
+		transform: translateY(0);
+	}
+}
+
+.modalHeader {
+	display: flex;
+	justify-content: space-between;
+	align-items: center;
+	padding: 20px 24px;
+	border-bottom: 1px solid rgba(255, 255, 255, 0.1);
+}
+
+.modalHeader h3 {
+	margin: 0;
+	font-size: 1.3rem;
+	color: rgba(255, 255, 255, 0.95);
+}
+
+.btnCloseModal {
+	background: transparent;
+	border: none;
+	font-size: 2rem;
+	color: rgba(255, 255, 255, 0.7);
+	cursor: pointer;
+	width: 36px;
+	height: 36px;
+	display: flex;
+	align-items: center;
+	justify-content: center;
+	border-radius: 8px;
+	transition: all 0.2s ease;
+	line-height: 1;
+}
+
+.btnCloseModal:hover {
+	background: rgba(255, 255, 255, 0.1);
+	color: rgba(255, 255, 255, 0.95);
+}
+
+.modalBody {
+	padding: 20px 24px;
+	overflow-y: auto;
+	flex: 1;
+}
+
+.plateGrid {
+	display: grid;
+	grid-template-columns: 1fr;
+	gap: 12px;
+}
+
+@media (min-width: 600px) {
+	.plateGrid {
+		grid-template-columns: repeat(2, 1fr);
+	}
+}
+
+.plateOption {
+	padding: 14px;
+	border: 1px solid rgba(255, 255, 255, 0.2);
+	border-radius: 10px;
+	background: rgba(255, 255, 255, 0.04);
+	cursor: pointer;
+	transition: all 0.2s ease;
+}
+
+.plateOption:hover {
+	background: rgba(79, 159, 255, 0.12);
+	border-color: rgba(79, 159, 255, 0.4);
+	transform: translateY(-2px);
+}
+
+.plateOptionName {
+	font-weight: 600;
+	font-size: 1rem;
+	margin-bottom: 6px;
+	color: rgba(255, 255, 255, 0.95);
+}
+
+.plateOptionDesc {
+	margin-bottom: 8px;
+	line-height: 1.4;
+}
+
+.plateOptionTags {
+	display: flex;
+	flex-wrap: wrap;
+	gap: 6px;
+}
+
+.plateOptionTag {
+	display: inline-block;
+	padding: 4px 10px;
+	border-radius: 6px;
+	font-size: 0.8rem;
+	background: rgba(79, 159, 255, 0.15);
+	border: 1px solid rgba(79, 159, 255, 0.3);
+	color: #4f9fff;
+}
+
+.plateOptionTag.healthy {
+	background: rgba(34, 197, 94, 0.15);
+	border-color: rgba(34, 197, 94, 0.3);
+	color: #4ade80;
+}
+
+/* Ajustes para pantallas chicas (móvil) */
+@media (max-width: 600px) {
+  #app {
+    padding: 16px;
+    max-width: 100%;
+  }
+
+  .header {
+    flex-direction: column;
+    align-items: flex-start;
+    gap: 8px;
+  }
+
+  h1 {
+    font-size: 1.6rem;
+  }
+
+  h2 {
+    font-size: 1rem;
+  }
+
+  .panel {
+    padding: 12px;
+  }
+
+  .kpiRow {
+    grid-template-columns: 1fr;
+  }
+
+  select,
+  input[type="number"] {
+    font-size: 16px; /* evita zoom raro en iOS */
+    min-height: 44px;
+  }
+
+  .chip {
+    font-size: 0.8rem;
+  }
+
+  .refBox {
+    max-height: 220px;
+  }
 }
 
 @media (prefers-color-scheme: light) {
@@ -290,12 +957,79 @@ button {
   a:hover {
     color: #747bff;
   }
-  .muted { color: rgba(0, 0, 0, 0.6); }
+  .muted { color: rgba(0, 0, 0, 0.7); }
   .chip { color: rgba(0, 0, 0, 0.7); border-color: rgba(0,0,0,0.14); }
   .panel { background: rgba(0, 0, 0, 0.03); border-color: rgba(0,0,0,0.12); }
+  label { color: #111827; }
+  .kpiLabel { color: #111827; }
+  .kpiValue { color: #111827; }
+  .evalBox { border-color: rgba(0,0,0,0.16); }
   select { background: rgba(255, 255, 255, 0.8); border-color: rgba(0,0,0,0.14); }
   .plate { border-color: rgba(0,0,0,0.18); }
   .kpi { background: rgba(0,0,0,0.02); border-color: rgba(0,0,0,0.12); }
   .refBox { background: rgba(255,255,255,0.7); border-color: rgba(0,0,0,0.12); }
   .refItem { border-bottom-color: rgba(0,0,0,0.08); color: rgba(0,0,0,0.78); }
+  .refItem strong { color: #1e40af; }
+  
+  .completeCard { background: rgba(0, 0, 0, 0.02); border-color: rgba(0,0,0,0.12); }
+  .completeName { color: #111827; }
+  .completeDesc { color: rgba(0, 0, 0, 0.7); }
+  .completeGoalTag { background: rgba(59, 130, 246, 0.1); color: #1e40af; border-color: rgba(59, 130, 246, 0.3); }
+  .btnLoadPlate { background: rgba(59, 130, 246, 0.08); border-color: rgba(59, 130, 246, 0.3); color: #1e40af; }
+  .btnLoadPlate:hover { background: rgba(59, 130, 246, 0.15); }
+  .completeVariations summary { color: rgba(0, 0, 0, 0.7); }
+  .completeVariations summary:hover { color: rgba(0, 0, 0, 0.9); }
+  .variationList { color: rgba(0, 0, 0, 0.75); }
+  
+  .tabNav { border-bottom-color: rgba(0,0,0,0.15); }
+  .tabBtn { color: rgba(0, 0, 0, 0.6); }
+  .tabBtn:hover { background: rgba(0, 0, 0, 0.05); color: rgba(0, 0, 0, 0.9); }
+  .tabBtn.active { color: #1e40af; border-bottom-color: #3b82f6; background: rgba(59, 130, 246, 0.1); }
+  
+  .btnExport, .btnShare { background: rgba(0, 0, 0, 0.04); border-color: rgba(0,0,0,0.14); color: #111827; }
+  .btnExport:hover, .btnShare:hover { background: rgba(0, 0, 0, 0.08); border-color: rgba(0,0,0,0.2); }
+  .btnExport.success { background: rgba(34, 197, 94, 0.1); border-color: rgba(34, 197, 94, 0.3); color: #16a34a; }
+  .btnShare { background: rgba(37, 211, 102, 0.08); border-color: rgba(37, 211, 102, 0.2); color: #16a34a; }
+  .btnShare:hover { background: rgba(37, 211, 102, 0.15); border-color: rgba(37, 211, 102, 0.35); }
+  
+  .dayCard { background: rgba(0, 0, 0, 0.02); border-color: rgba(0,0,0,0.12); }
+  .dayCard:hover { background: rgba(0, 0, 0, 0.04); border-color: rgba(0,0,0,0.18); }
+  .dayName { color: #1e40af; }
+  .btnSelectPlate { background: rgba(59, 130, 246, 0.08); border-color: rgba(59, 130, 246, 0.3); color: #1e40af; }
+  .btnSelectPlate:hover { background: rgba(59, 130, 246, 0.15); }
+  .emptyDay { color: rgba(0, 0, 0, 0.4); }
+  .dayPlate { background: rgba(0, 0, 0, 0.03); }
+  .dayPlateName { color: #111827; }
+  .dayPlateMacros { color: rgba(0, 0, 0, 0.7); }
+  .btnRemoveDay { background: rgba(220, 70, 70, 0.08); border-color: rgba(220, 70, 70, 0.3); color: #dc2626; }
+  .btnRemoveDay:hover { background: rgba(220, 70, 70, 0.15); }
+  
+  .btnExportWeek, .btnShareWeek, .btnClearWeek { background: rgba(0, 0, 0, 0.04); border-color: rgba(0,0,0,0.14); color: #111827; }
+  .btnExportWeek:hover, .btnShareWeek:hover { background: rgba(0, 0, 0, 0.08); }
+  .btnExportWeek.success { background: rgba(34, 197, 94, 0.1); border-color: rgba(34, 197, 94, 0.3); color: #16a34a; }
+  .btnShareWeek { background: rgba(37, 211, 102, 0.08); border-color: rgba(37, 211, 102, 0.2); color: #16a34a; }
+  .btnShareWeek:hover { background: rgba(37, 211, 102, 0.15); }
+  .btnClearWeek { background: rgba(220, 70, 70, 0.08); border-color: rgba(220, 70, 70, 0.3); color: #dc2626; }
+  .btnClearWeek:hover { background: rgba(220, 70, 70, 0.15); }
+  
+  .modalContent { background: #f8f9fa; border-color: rgba(0,0,0,0.15); }
+  .modalHeader { border-bottom-color: rgba(0,0,0,0.1); }
+  .modalHeader h3 { color: #111827; }
+  .btnCloseModal { color: rgba(0, 0, 0, 0.6); }
+  .btnCloseModal:hover { background: rgba(0, 0, 0, 0.05); color: rgba(0, 0, 0, 0.9); }
+  .plateOption { background: rgba(0, 0, 0, 0.02); border-color: rgba(0,0,0,0.12); }
+  .plateOption:hover { background: rgba(59, 130, 246, 0.08); border-color: rgba(59, 130, 246, 0.3); }
+  .plateOptionName { color: #111827; }
+  .plateOptionTag { background: rgba(59, 130, 246, 0.1); border-color: rgba(59, 130, 246, 0.3); color: #1e40af; }
+  .plateOptionTag.healthy { background: rgba(34, 197, 94, 0.1); border-color: rgba(34, 197, 94, 0.3); color: #16a34a; }
+  
+  .special-diet { background: linear-gradient(135deg, rgba(59, 130, 246, 0.08), rgba(147, 51, 234, 0.08)); border-color: rgba(59, 130, 246, 0.3); }
+  .diet-header h2 { color: #111827; }
+  .diet-guidelines { background: rgba(0, 0, 0, 0.02); border-color: rgba(0,0,0,0.12); }
+  .diet-guidelines summary { color: #1e40af; }
+  .diet-guidelines summary:hover { color: #1e3a8a; }
+  .guidelines-content { border-top-color: rgba(0,0,0,0.1); }
+  .guidelines-content h4 { color: #111827; }
+  .guidelines-content li { color: rgba(0, 0, 0, 0.8); }
+  .completeGoalTag.healthy { background: rgba(34, 197, 94, 0.1); border-color: rgba(34, 197, 94, 0.3); color: #16a34a; }
 }
