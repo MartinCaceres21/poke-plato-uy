@@ -81,8 +81,8 @@ function renderApp() {
     <div class="shell">
       <header class="header">
         <div>
-          <h1>Arma tu plato</h1>
-          <p class="muted">Selecciona exactamente 3 ingredientes (1 proteína, 1 carbohidrato, 1 grasa). Se calculan calorías y macros en vivo.</p>
+          <h1>Poke Plato UY</h1>
+          <p class="muted">Arma tu plato eligiendo exactamente 3 ingredientes (1 proteína, 1 carbohidrato, 1 grasa). Se calculan calorías y macros en vivo.</p>
         </div>
         <div class="chip">PDF: marco de referencia compacto</div>
       </header>
