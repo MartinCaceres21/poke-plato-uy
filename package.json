@@ -1,0 +1,19 @@
+{
+  "name": "recetas",
+  "private": true,
+  "version": "0.0.0",
+  "type": "module",
+  "scripts": {
+    "dev": "vite",
+    "build": "vite build",
+    "preview": "vite preview",
+    "ref:pdf": "node scripts/parse-pdf-reference.mjs --in \"C:/Users/Nitto/recetas/Guía Alimentación 2022.pdf\" --out \"src/reference/reference.json\"",
+    "ref:pdf:kw": "node scripts/parse-pdf-reference.mjs --in \"C:/Users/Nitto/recetas/Guía Alimentación 2022.pdf\" --out \"src/reference/reference.json\" --keywords \"kcal,calorías,proteína,carbohidratos,grasas,porción,ración,tabla\""
+  },
+  "devDependencies": {
+    "vite": "^7.3.1"
+  },
+  "dependencies": {
+    "pdf-parse": "^2.4.5"
+  }
+}

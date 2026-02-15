@@ -1,0 +1,3333 @@
+
+
+-- 1 of 102 --
+
+Autoridades
+Dr. Daniel Salinas
+Ministro
+Lic. José Luis Satdjian
+Subsecretario
+Dr. Miguel Asqueta
+Director General de la Salud
+Coordinación Técnica de la Guía Alimentaria
+para la Población Uruguaya
+Mag. Ximena Moratorio
+Dra. Isabel Bove
+Equipo Técnico
+Mag. Elisa Bandeira
+Mag. Virginia Vodanovich
+Lic. Gabriela Berri
+Mag. Carolina de León
+Depto de Comunicación y Salud del Ministerio de Salud
+Fotografía: Florencia Carbalho y Victoria Gazzo
+Unidad Asesora en Comunicación del MIDES
+Banco de imágenes del Ministerio de Salud
+Edición, 2021
+Primera edición, 2016
+
+-- 2 of 102 --
+
+Agradecimientos
+A la Organización de las Naciones Unidas para
+la Alimentación y la Agricultura en Uruguay,
+que brindó su apoyo a través de la contratación
+de una consultoría técnica regional para dar
+inicio al proceso de actualización de la Guía
+alimentaria para la población uruguaya.
+A la consultora Verónika Molina, quien
+compartió sus conocimientos y su vasta
+experiencia en la elaboración de Guías
+Alimentarias en América Latina y el Caribe.
+Al Dr. Fabio Da Silva Gomes, asesor en
+nutrición y actividad física de la Organización
+Panamericana de la Salud, quien contribuyó
+en el proceso de discusión de la guía y,
+especialmente, en la incorporación de una
+nueva mirada sobre la alimentación y la
+nutrición.
+Al Dr. Carlos Monteiro, director del Núcleo de
+Investigaciones Epidemiológicas en Nutrición
+y Salud de la Universidad de São Paulo, quien
+brindó su experiencia en la elaboración de la
+Guía alimentaria para la población brasileña, y
+tuvo la generosidad de revisar esta y realizar
+valiosos aportes.
+A los representantes institucionales que
+participaron en el proceso de discusión de
+esta guía y que, con sus diferentes saberes, la
+enriquecieron.
+Al Núcleo Interdisciplinario Alimentación y
+Bienestar de la UdelaR e Instituto Nacional
+de Alimentación del Ministerio de Desarrollo
+Social, y a la Escuela de Nutrición de la UdelaR,
+cuyos equipos de investigación llevaron a cabo
+la validación de los contenidos de esta guía.
+A la Dirección Uruguay Crece Contigo del
+Ministerio de Desarrollo Social, por su apoyo
+en la coordinación y financiamiento de la
+consultoría del Dr. Fabio Da Silva Gomes
+(Cooperación Técnica UCC-BID) y en la
+validación de los mensajes de la guía.
+A las personas que participaron en los grupos
+focales y las diferentes consultas públicas
+realizadas para la validación.
+Al Programa Cocina Uruguay de la Intendencia
+de Montevideo e Instituto Nacional de
+Alimentación del Ministerio de Desarrollo
+Social, por la elaboración y fotografía de
+las preparaciones que se incluyen en esta
+publicación.
+A Unicef, por la colaboración para la
+elaboración de los materiales didácticos que
+apoyarán la difusión de esta guía.
+
+-- 3 of 102 --
+
+Representantes Institucionales que participaron
+en el proceso de discusión de la Guía
+Ministerio de Salud
+División Fiscalización:
+Claudia Boullosa
+Rosana Di Landro
+Luis Mele
+Mariana Pereda
+Lara Taroco
+Departamento de Alimentos:
+Nora Villalba
+Área Programática del Adulto Mayor:
+Mariano Silva
+Dardo Roldán
+Alejandra Talice
+Área Programática Salud Bucal:
+Alma Chiodi
+Área Programática de Salud Adolescente:
+Yeni Hortoneda
+División Normas Sanitarias:
+Dora Mira
+Área Programática Enfermedades No Transmisibles:
+María José Rodríguez
+Graciela Herwig
+Andrea Mazzei
+Programa de Prevención de Enfermedades No
+transmisibles:
+Zully Olivera
+Calíope Ciríacos
+Dirección Departamental de Treinta Y Tres:
+Isabel Aldabe
+Comisión Honoraria de Lucha contra el Cáncer:
+Bibiana Sologaistoa
+Comisión Honoraria para la Salud Cardiovascular:
+Gabriela González
+Cecilia del Campo
+Ministerio de Desarrollo Social
+Tarjeta Uruguay Social:
+María Eugenia Oholeguy
+Instituto Nacional de Alimentación:
+María Rosa Curutchet
+Joseline Martínez
+Instituto del Niño y del Adolescente del Uruguay:
+Fabiana Peregalli
+Dirección Uruguay Crece Contigo:
+Florencia Cerruti
+Veronica Pandolfo
+Florencia Koncke
+Ministerio de Ganadería Agricultura y Pesca
+Dirección General de la Granja:
+Nora Enrich
+Elisabeth Carrega
+Infopesca
+Nelson Avdalov
+Ministerio de Educación y Cultura
+Carlos Brasezco
+Federico Medina
+Consejo de Educación Inicial y Primaria
+Programa de Alimentación Escolar:
+Laura Estable
+Caren Zelmonovich
+Adriana Capel
+Mariné Picasso
+Sabrina Pasantes
+Administración de Servicios de Salud del Estado
+Programa de Alimentación y Nutrición:
+Mónica Blanco
+
+-- 4 of 102 --
+
+Red de Atención del Primer Nivel:
+Carlos Larroque
+Alfonsina Ortiz
+Tania Rey
+Mariana Simoncelli
+Natalia Arenares
+Gabriela Pravia
+Analía Rosano
+Virginia Natero
+Ana Laura Meroni
+Intendencia de Montevideo
+División Salud - Programa de Nutrición:
+Natalia Rey
+Patricia Barreto
+Servicio de Regulación Alimentaria:
+Marcelo Amado
+Isabel Algorta
+Programa Cocina Uruguay:
+Lidia Erro
+Viviana Santin
+Mercado Modelo:
+Pablo Pacheco
+Alfredo Pérez
+Universidad de la República
+Facultad de Veterinaria:
+Rosario De los Santos
+Darío Hirigoyen
+Cristina López
+José Pedro Dragonetti
+Facultad de Química:
+Adriana Gámbaro
+Patricia Lema
+María Antonia Grompone
+Facultad de Agronomía:
+Stella Reginensi
+Gianfranca Camussi
+Facultad de Medicina:
+Departamento de Medicina Preventiva:
+Cecilia Severi
+Cátedra de Gastroenterología: Natalie Nabon
+Núcleo Interdisciplinario Alimentación y Bienestar:
+Ana Giménez y Gastón Ares
+Escuela de Nutrición:
+Elena Ongay, Marta Elichalt, Teresa Dornell, Gabriela
+Fajardo, Norma González, Estela Fernández,
+Mónica Britz, Cecilia Piñeyro, Paula Moliterno,
+Marina Moirano, Ana Paula Della Santa, Claudia
+Fraga, Angela Torres, Florencia Ceriani, Mónica
+Russo, Flavia Noguera, Claudia Suárez, María Noel
+Acosta, Estela Skapino, Ana Laura Meroni, Rita
+Barboza, Sofía Remedi, Raquel Palumbo, Luisa
+Saravia, Virginia Reyes, Natalia Rey, Carolina Menoni,
+Florencia Muniz, Fernanda Risso, Pablo Pereira y
+Jaqueline Lucas
+Universidad Católica del Uruguay
+Departamento de Nutrición:
+Isabel Pereyra
+Beatriz Agazzi
+Asociación Uruguaya de Dietistas y Nutricionistas
+Alejandra Girona
+Virgnia Puyares
+Asociación Celíaca del Uruguay
+Fabiana Bentancor
+Carolina Olivera
+Haydee Facelli
+Consumidores y Usuarios Asociados
+Raquel Sánchez
+Guillermo Silva
+Huertas Comunitarias Montevideo
+Diego Ruete
+Red Uruguaya de Apoyo a la Nutrición y
+Desarrollo Infantil
+Nadya Golovchenko
+Sociedad Uruguaya de Pediatría
+Rosario Satriano
+Cristina Estefanell
+Slow Food
+Laura Rosano
+Paula Rama
+
+-- 5 of 102 --
+
+Glosario: la guía cuenta con un glosario al pie de pagina donde se encuentran las definiciones de palabras poco utilizadas
+o que consideramos importante aclarar.
+Cómo utilizar esta guía
+La
+Guía alimentaria para la población uruguaya es un material divulgativo que tiene por objeto promover
+una alimentación saludable, compartida y placentera.
+Su contenido está organizado en tres capítulos centrales.
+En «Los principios que orientaron la elaboración de esta guía» se recogen las bases conceptuales de la
+guía, que consideran los nutrientes, los alimentos, las combinaciones de alimentos y comidas, así como las
+dimensiones culturales y sociales que influyen en las prácticas alimentarias y condicionan nuestra salud.
+«Las claves en tu día a día» sugiere seis mensajes sobre nuestro estilo de vida y la forma en que comemos,
+que nos orientan a vivir de un modo más saludable y, además, más placentero.
+«Las claves en tu mesa» reúne cinco mensajes prácticos sobre cómo elegir y preparar los alimentos y
+bebidas que consumimos para alcanzar un mayor nivel de salud y bienestar.
+En todos los casos, se ofrece información técnica clara, precisa y amigable, que opera como fundamento de
+las recomendaciones de la guía. Además, el lector encontrará información en los márgenes, categorizada de
+la siguiente forma:
+Números que importan: información cuantitativa y estadística sobre hábitos
+alimenticios, estilo de vida, formas de consumo y otros datos de interés, que ponen en
+perspectiva algunas cuestiones relativas a las elecciones que determinan el modo en
+que comemos y vivimos.
+Alerta: un llamado de atención acerca de algunos datos sobre nuestros hábitos de
+alimentación, en particular, y nuestro estilo de vida, en general, que nos inquietan o
+preocupan.
+Para reflexionar: ideas y sugerencias que nos exhortan a reflexionar sobre nuestra
+responsabilidad acerca de las decisiones que inciden en la forma de alimentarnos y
+a adoptar una mirada introspectiva sobre algunas problemáticas vinculadas a cómo
+comemos.
+Tené en cuenta: consejos y recomendaciones para poner en práctica de manera simple
+y facilitar la incorporación de hábitos saludables.
+Recordá: una síntesis del contenido más relevante para que tener siempre presente y a
+mano.
+
+-- 6 of 102 --
+
+Los principios que orientaron la elaboración de la guía
+Las claves en tu día a día para alcanzar una alimentación
+saludable, compartida y placentera
+Las claves para alcanzar una alimentación saludable y
+placentera en tu mesa
+La higiene de los alimentos para una vida más sana
+El ícono: una herramienta para ayudar a alimentarnos de forma
+saludable, compartida y placentera
+Contenido
+10
+22
+64
+90
+96
+
+-- 7 of 102 --
+
+10 GUÍA ALIMENTARIA
+
+-- 8 of 102 --
+
+11	GUÍA ALIMENTARIA
+Los principios que orientaron
+la elaboración de la Guía
+
+-- 9 of 102 --
+
+12 GUÍA ALIMENTARIA
+La alimentación adecuada y saludable
+como derecho humano
+La alimentación saludable, compartida y placentera es un
+derecho humano universal.
+Uruguay adhiere y ratifica el derecho a la alimentación
+adecuada en los tratados internacionales y de forma implícita
+en la Constitución de la República y en múltiples leyes y
+artículos.
+Para garantizar este derecho es necesario adoptar estrategias
+que ayuden a las personas a optar por alternativas más
+saludables para su vida.
+Esta Guía tiene por objetivo informar a los ciudadanos
+uruguayos, para que busquen cambios en sí mismos y en su
+entorno, y exijan el cumplimiento del derecho humano a la
+alimentación adecuada y saludable.
+El derecho a la alimentación
+adecuada comprende la
+disponibilidad y acceso estable
+y sustentable a alimentos
+en cantidad suficientes para
+satisfacer las necesidades
+alimentarias de los individuos,
+sin sustancias nocivas, y
+aceptables para una cultura
+determinada, sin afectar
+el goce de otros derechos
+humanos.
+
+-- 10 of 102 --
+
+13	GUÍA ALIMENTARIA
+de sobrepeso
+En adultos
+37,2 % 27,6 %
+de sobrepeso
+En jóvenes de 15 a 24 años
+27,5 % de obesidad	10,2 %
+En adolescentes de 13 a 15 años
+de obesidad
+de sobrepeso
+de obesidad	20,2 % 7 %
+Números que
+importan
+Una guía alimentaria adaptada a los nuevos tiempos
+Uruguay ha experimentado muchos cambios políticos, sociales, económicos y de salud,
+especialmente en los últimos diez años. Nuestro país ha pasado de ser uno de renta media a
+uno de renta alta. Se han alcanzado niveles de desempleo históricamente bajos y se evidencia
+un crecimiento sostenido de la participación de la mujer en el mercado de trabajo. Asimismo, los
+estilos de vida y, entre ellos, los patrones de conducta alimentaria y de actividad física han estado
+sometidos a un constante proceso de transformación.
+Las enfermedades no transmisibles relacionadas con una inadecuada alimentación constituyen el
+principal problema de salud pública. Dos de cada tres uruguayos están en riesgo de sufrir graves
+consecuencias a propósito de su sobrepeso u obesidad, hipertensión y complicaciones derivadas
+de alimentarse de forma inadecuada. Muchas de las conquistas para la salud que han contribuido
+a la mejora de la calidad de vida y al aumento de la longevidad se ven amenazadas por los altos
+niveles de sobrepeso y obesidad.
+En el país, de cada diez
+adultos de 25 a 64 años cuatro
+presentan sobrepeso y tres,
+obesidad.
+El sobrepeso y la obesidad
+afectan cada vez a más
+jóvenes e incluso a
+adolescentes y niños. Cuatro
+de cada diez jóvenes de 15 a
+24 años y tres de cada diez
+adolescentes de 13 a 15 años
+ya presentan sobrepeso u
+obesidad.
+
+-- 11 of 102 --
+
+14 GUÍA ALIMENTARIA
+Por otra parte, compartir la mesa con la familia ha dejado
+de ser una práctica cotidiana. Cuando tenemos hambre,
+picoteamos frente a la heladera, al pasar por el quiosco, en
+el cine, frente al televisor, caminando o incluso conduciendo.
+La comida se aleja cada vez más de ser un acto colectivo para
+transformarse en un acto individual. La comensalidad, que
+caracterizó desde siempre al acto de comer, ha comenzado
+a quebrantarse. Ha nacido una nueva manera de comer a
+cualquier hora y en cualquier lugar.
+La soledad del comensal
+se manifiesta, por ejemplo,
+cuando una familia ve
+televisión o atiende el celular
+durante la cena, o cuando
+varias personas se sientan en
+la misma mesa a comer de
+forma aislada. De ese modo,
+cada uno frente a su plato y
+frente al televisor vacía de
+contenido la mesa, donde
+tradicionalmente no solo se
+servía comida sino también
+comentarios, recuerdos,
+historias que se compartían…
+Las conexiones sociales que
+construimos y establecemos
+alrededor de la mesa
+contribuyen a nuestro
+bienestar.
+Picoteo: comer a cualquier hora y entre comidas.
+Comensalidad: compartir el acto de comer.
+Alerta
+Recordá
+
+-- 12 of 102 --
+
+15	GUÍA ALIMENTARIA
+El efecto benéfico sobre la
+prevención de enfermedades
+procede del alimento y de las
+combinaciones de nutrientes
+y otros compuestos químicos
+que forman parte de su matriz,
+más que de los nutrientes
+aislados.
+La alimentación es más que el consumo de
+nutrientes
+Alimentarse significa mucho más que satisfacer el hambre,
+nutrir el cuerpo o prevenir y tratar enfermedades. La comida
+nos da placer y contribuye cotidianamente a iniciar y mantener
+relaciones personales, familiares y de negocios, a expresar la
+individualidad, el sentido de pertenencia, el amor y el cariño.
+Los alimentos proporcionan los nutrientes —proteínas, grasas,
+glúcidos, vitaminas y minerales—, necesarios para mantener
+todas las funciones del cuerpo. Además, los alimentos
+aportan numerosos compuestos químicos con actividad
+biológica. Frutas, verduras, leguminosas, nueces y pescados
+contienen compuestos con propiedades antioxidantes y
+antiinflamatorias.
+Ningún alimento por sí solo contiene todos los nutrientes que
+necesitamos, por lo que para cubrir nuestros requerimientos
+la alimentación debe basarse en comer variado. Además,
+el estudio aislado de los nutrientes no ha logrado explicar
+totalmente la relación entre alimentación y salud. Un ejemplo
+de ello es que la protección que confiere el consumo de frutas
+y verduras contra las enfermedades cardíacas y ciertos tipos
+de cáncer no se replica si se administra un suplemento con los
+mismos nutrientes que aportan aquellos alimentos.
+Nutriente: sustancia del alimento imprescindible para realizar las funciones vitales (proteínas, carbohidratos, grasas,
+vitaminas y minerales)
+Antioxidante: sustancia que retrasa el deterioro y desgaste de los tejidos evitando el proceso de oxidación de las células
+por la acción de los radicales libres.
+Recordá
+
+-- 13 of 102 --
+
+16 GUÍA ALIMENTARIA
+Revalorización la comida casera y
+saludable como parte de nuestra cultura
+Los seres humanos somos la única especie del planeta que
+transforma los alimentos crudos en platos cocidos y que aplica
+normas específicas sobre lo que se come, cómo se prepara y
+cómo se consume. Dicho de otro modo: nuestra humanidad se
+expresa en nuestro comportamiento alimentario y en nuestras
+cocinas.
+Asimismo, la alimentación es un elemento clave del
+patrimonio cultural de cada grupo social. Qué se come, cómo,
+dónde, con quién y lo que sentimos cuando comemos son
+componentes esenciales de nuestra identidad cultural.
+La gastronomía del Uruguay representa la pluralidad de
+influencias culturales: una mezcla entre la comida de los
+inmigrantes europeos y las tradiciones autóctonas.
+La variedad de pizzas y pastas dan cuenta de la fuerte
+influencia italiana; el arroz con leche, la tortilla y las croquetas,
+de la influencia española. La carne asada es, sin lugar a dudas,
+la expresión más auténtica de nuestra cultura gastronómica,
+fundada en una tradición ganadera. El zapallo en almíbar,
+el dulce de batata, el puchero, el guiso criollo son parte de
+nuestra identidad culinaria.
+Por su parte, el mate, que tanto nos caracteriza, ya era
+consumido en la época precolombina por los pueblos
+originarios guaraníes. Fue adoptado rápidamente por los
+colonizadores españoles y hoy es parte de nuestro acervo
+cultural.
+Patrimonio cultural: bienes, costumbres, tradiciones y símbolos de la herencia
+cultural de una comunidad, que se trasmiten de generación en generación.
+
+-- 14 of 102 --
+
+17	GUÍA ALIMENTARIA
+Tradicionalmente, la cocina en los hogares uruguayos ha sido
+un espacio femenino. Con más de cinco de cada diez mujeres
+uruguayas formando parte de la población económicamente
+activa, debemos pensar en la cocina como una oportunidad
+para construir relaciones más equitativas entre mujeres y
+varones.
+La cocina, como cualquier
+actividad creativa, no tiene
+limitaciones de género. Al
+contrario, muchos varones
+han descubierto el placer en
+cocinar y son muy buenos
+haciéndolo, encargándose de
+las compras, experimentando
+con los sabores, planificando
+las comidas familiares.
+Para
+reflexionar
+
+-- 15 of 102 --
+
+18 GUÍA ALIMENTARIA
+Alimentación basada en alimentos
+naturales o mínimamente procesados
+Una gran variedad de alimentos naturales o poco procesados
+—en su mayoría de origen vegetal, combinados con algunos
+de origen animal— son la base para una alimentación
+nutricionalmente equilibrada y sabrosa, y culturalmente
+apropiada .
+Sin embargo, hoy en día los productos ultraprocesados,
+incluidos los refrescos y la comida rápida, están desplazando
+a la dieta tradicional y las comidas caseras; representan una
+parte cada vez mayor de lo que las personas comen y beben.
+Cuando hablamos de productos ultraprocesados no nos
+referimos al tipo de proceso de producción, sino a sus
+características. Están presentes en todas partes del mundo,
+contienen muchos ingredientes y, sobre todo, excesiva
+cantidad de sal, azúcar y grasa. Su consumo frecuente se
+ha asociado a la epidemia de la obesidad, hipertensión y
+enfermedades cardiovasculares.
+En Uruguay se ha producido un vertiginoso incremento en las
+ventas de estos productos.
+La comida casera preparada a
+partir de alimentos sin procesar
+o mínimamente procesados ha
+sido desplazada por productos
+ultraprocesados tales como
+galletitas rellenas, alfajores,
+postres, mezclas para
+tortas, pastas instantáneas,
+helados, nuggets, panchos,
+hamburguesas, papas prefritas,
+caldos y sopas deshidratadas,
+refrescos y otras bebidas
+azucaradas…
+En 2013 se consumieron 150 kg
+de productos ultraprocesados
+por uruguayo.
+Para
+reflexionar
+Números
+que importan
+
+-- 16 of 102 --
+
+19	GUÍA ALIMENTARIA
+Alimentación en armonía con la
+biodiversidad y sustentabilidad del
+ambiente
+Nuestra alimentación debe estar en armonía con los recursos
+naturales y asegurar la conservación de la diversidad biológica.
+La producción de alimentos ha acompañado al ser humano
+a lo largo de la historia. Los modos de producción generan
+impactos sociales y ambientales. Los planes de uso de suelos,
+la diversificación agrícola y ganadera, la promoción de técnicas
+sustentables para la producción de frutas y hortalizas frescas,
+la promoción y control del uso y manejo seguro de plaguicidas,
+y un adecuado manejo de residuos del proceso productivo son
+fundamentales para alcanzar la sustentabilidad del sistema
+alimentario.
+Las decisiones cotidianas de los hogares —convenidas por las
+preferencias alimentarias de las familias— pueden generar
+gran cantidad de desechos y consumo de energía y agua
+innecesarios.
+Sustentabilidad: capacidad para hacer un uso consciente y responsable
+de los recursos, sin agotarlos o exceder su capacidad de renovación, y sin
+comprometer su acceso a generaciones futuras.
+La producción sustentable
+de alimentos debe
+proveer los alimentos
+necesarios, preservar los
+recursos naturales, ser
+económicamente viable y
+contribuir a la calidad de
+vida de los productores, los
+trabajadores y la sociedad en
+su conjunto.
+Para
+reflexionar
+
+-- 17 of 102 --
+
+20 GUÍA ALIMENTARIA
+Actividad física: tan imprescindible como
+la alimentación saludable
+La alimentación saludable, compartida y placentera, y la
+práctica habitual de actividad física representan pilares para el
+bienestar y se traducen en una vida más saludable. Son la clave
+para la prevención y el control de muchas de las enfermedades
+que más nos afectan: obesidad, diabetes, hipertensión,
+problemas cardiovasculares, algunos tipos de cáncer, artrosis,
+osteoporosis y algunas otras relacionadas con la salud mental.
+Hoy se sabe que es necesario desarrollar más actividad física y
+disminuir el sedentarismo. Tanto este como la prevalencia de
+actividad física insuficiente están en aumento.
+Sedentarismo: pasar sentado períodos mayores a tres horas de forma habitual.
+Inactividad: ausencia de actividad o de ejercicio físico.
+Números
+que importan
+En el Uruguay, siete de cada
+diez de los estudiantes de 13 a
+15 años son inactivos y seis de
+cada diez son sedentarios ya
+que pasan tres o más horas del
+día sentados.
+El sedentarismo se ha
+convertido en la segunda
+causa de muerte a nivel global,
+con similar carga de muerte
+que el tabaco.
+Para
+reflexionar
+
+-- 18 of 102 --
+
+21	GUÍA ALIMENTARIA
+
+-- 19 of 102 --
+
+22 GUÍA ALIMENTARIA
+
+-- 20 of 102 --
+
+23	GUÍA ALIMENTARIA
+Las claves en tu día a día para
+alcanzar una alimentación
+saludable, compartida y
+placentera
+
+-- 21 of 102 --
+
+24 GUÍA ALIMENTARIA
+1. Disfrutá la comida: comé despacio y,
+cuando puedas, hacelo en compañía.
+El tiempo y la atención que le dedicamos a comer, el lugar y
+la compañía influyen en el tipo de alimento que elegimos, las
+cantidades que consumimos y lo placentera que nos resulta la
+comida.
+No es lo mismo comer en la mesa y en compañía de amigos o
+familiares, que apurado en el trabajo, frente a la computadora
+o sentado en el sofá frente al televisor.
+Cuando comemos rodeados de tantas distracciones no
+prestamos atención y nuestro cerebro no registra de modo
+consciente qué y cuánto alimento ingerimos.
+La comida se disfruta comiendo despacio ¡y saboreándola!
+Si masticamos más veces, aumentamos la concentración y
+prolongamos la duración de la comida. Así es posible disfrutar
+de los distintos sabores y texturas de los alimentos.
+El lugar donde comemos —sus olores, sus sonidos y su
+iluminación— también influyen en la cantidad de alimentos
+que consumimos, en la atención que les prestamos y en el
+disfrute que nos generan. Los lugares limpios, tranquilos y
+cómodos ayudan a concentrarnos en el acto de comer e invitan
+a hacerlo despacio, para que podamos apreciar el alimento
+adecuadamente: todo ello contribuye a no comer en exceso.
+El incremento del sobrepeso
+y de la obesidad en nuestro
+país requiere un cambio en
+la forma en que comemos.
+Delante de la televisión se
+picotea, se toman más bebidas
+azucaradas y se comen más
+snacks. Los adultos y niños que
+comen y pasan muchas horas
+delante del televisor tienen
+mayor probabilidad de tener
+sobrepeso u obesidad.
+Alerta
+Cuando comemos solos,
+comemos más rápido y de
+un modo menos saludable.
+Elegimos con más frecuencia
+comida rápida y productos
+ya preparados listos para el
+consumo. ¡Tomate tiempo y
+disfrutá de la comida!
+Recordá
+
+-- 22 of 102 --
+
+25	GUÍA ALIMENTARIA
+Por eso te sugerimos que:
+Antes de sentarte a comer,
+prepará la mesa, apagá la
+televisión y los celulares.
+Tratá de no hacer otras
+actividades durante la comida.
+¡Disfrutala!
+Siempre que puedas, tratá
+de comer en compañía. En
+el trabajo, buscá un lugar
+tranquilo e invitá a algún
+compañero a comer contigo.
+
+-- 23 of 102 --
+
+26 GUÍA ALIMENTARIA
+2. Basá tu alimentación en alimentos
+naturales y evitá el consumo de productos
+ultraprocesados en el día a día, con
+excesiva cantidad de grasas, azúcar y sal.
+La alimentación de nuestros abuelos, padres y madres se
+basaba en los alimentos naturales, es decir, aquellos que se
+obtienen directamente de las plantas o de los animales, como
+frutas, verduras, legumbres, carnes, huevos, leche, arroz, trigo,
+entre otros.
+En algunos casos, a estos alimentos se les aplican procesos
+simples como pelado, molido, desecado, fermentado,
+pasteurizado o congelado, sin el agregado de sal, azúcar o
+grasas.
+La alimentación basada en comidas caseras preparadas con
+este tipo de alimentos con poca cantidad de sal, azúcar y
+grasas se asocia con un buen nivel de salud y bienestar, y una
+incidencia más baja de enfermedades.
+Esto se debe no solo a su calidad nutricional, sino también
+a los beneficios emocionales, mentales y sociales que implica
+cocinar nuestros propios alimentos y compartirlos con otras
+personas.
+Por eso nuestra recomendación es que bases tu alimentación
+en los alimentos naturales que hemos empleado
+tradicionalmente en nuestra cocina.
+Combinar alimentos de origen
+vegetal —como verduras,
+frutas, porotos, lentejas y
+garbanzos, fideos, arroz o
+polenta— con alimentos de
+origen animal —como huevos y
+leche, y cantidades moderadas
+de carnes— se obtiene una
+alimentación nutricionalmente
+equilibrada.
+Además, contribuye a la
+promoción de un sistema
+alimentario más sustentable.
+Recordá
+Fermentación: proceso que permite preservar por más tiempo los alimentos.
+Por ejemplo, el avinagrando inhibe el crecimiento y la fermentación de la
+leche para obtener el yogur y el kéfir. También les da sabor, aroma y textura
+transformándolos en vino, cerveza y pan .
+Pasteurización: proceso térmico realizado en líquidos, por ejemplo en la
+leche, con el objetivo de reducir la presencia de patógenos.
+Calidad nutricional: depende del contenido de nutrientes de los alimentos.
+Los que aportan cantidades significativas de varios nutrientes se consideran de
+alta calidad, mientras que los que aportan solo calorías (por ejemplo, el azúcar)
+se consideran de baja calidad.
+
+-- 24 of 102 --
+
+27	GUÍA ALIMENTARIA
+Verduras y frutas: frescas, envasadas,
+refrigeradas, congeladas o deshidratadas
+como pasas y orejones.
+Legumbres como porotos, lentejas,
+garbanzos, chauchas, habas y arvejas.
+Papas, arroz (blanco, integral o
+parbolizado), avena, harinas (de maíz, de
+trigo u otras), pastas simples (frescas o
+secas).
+Carnes de todo tipo: vaca, cerdo,
+cordero, aves, pescados y otras, frescas o
+congeladas.
+Huevos
+Leche (pasteurizada, ultrapasteurizada o
+larga vida, o en polvo), yogur natural sin
+agregado de azúcar.
+Nueces, maníes, almendras, castañas
+y otras semillas sin agregado de sal ni
+azúcar.
+Especias y hierbas frescas o secas.
+Té, café, mate y agua potable.
+Alimentos naturales o mínimamente procesados
+
+-- 25 of 102 --
+
+28 GUÍA ALIMENTARIA
+Los alimentos procesados
+Algunos de los alimentos naturales que nos acompañan
+desde hace cientos de años son procesados con técnicas
+similares a las que utilizaban nuestras abuelas en sus cocinas.
+Se les agregan grasas, aceites, azúcares, sal, vinagre y otros
+ingredientes culinarios para hacerlos más gustosos y más
+duraderos. Se cuecen, secan o fermentan, y se aplican métodos
+de conservación como salado, salmuera, curado y ahumado.
+Nos referimos a los quesos, panes, conservas de verduras,
+legumbres o frutas, quesos, algunos tipos de carnes
+conservadas en sal y pescados en sal y aceite.
+Muchas veces contienen excesiva cantidad de sal, grasas o
+azúcar, no obstante, utilizados en cantidades moderadas y
+combinados con alimentos naturales, también son parte de
+una alimentación saludable.
+Tené en cuenta
+No sustituyas
+totalmente la leche por
+el queso: consumilo
+en cantidad moderada
+y como ingrediente en
+preparaciones caseras
+elaboradas en base a
+alimentos naturales.
+Cuando compres
+quesos, elegí aquellos
+con menor contenido de
+grasa y sal.
+No abuses de los
+sándwiches, refuerzos o
+bocatas preparados con
+pan como sustituto de
+las comidas principales.
+Preferí frutas, verduras
+y legumbres, ya sean
+frescas, congeladas
+o deshidratadas, y
+consumí las conservas
+en forma ocasional o en
+pequeñas cantidades
+agregadas a otras
+preparaciones.
+
+-- 26 of 102 --
+
+29	GUÍA ALIMENTARIA
+Los productos ultraprocesados
+Además de los alimentos naturales y los procesados, cuando
+hacemos las compras nos encontramos con infinidad de
+productos ultraprocesados, que son ofrecidos en atractivos
+envases. Están diseñados para ser consumidos prácticamente
+sin ningún tipo de preparación culinaria y en cualquier lugar, sin
+necesidad de mesas, platos y cubiertos, mientras trabajamos,
+conducimos o vemos televisión.
+Suelen ser iguales o muy similares en todo el mundo e invitan
+a ser consumidos de forma impulsiva. Las grandes empresas
+que los fabrican invierten muchísimo dinero en su promoción.
+En general, sus ingredientes son de muy bajo costo, por lo que
+se comercializan en envases de gran tamaño. De esta forma,
+favorecen el consumo de más calorías y, en consecuencia,
+aumentan el riesgo de padecer obesidad.
+Muchas veces, sus etiquetas incluyen imágenes de alimentos
+naturales o destacan el agregado de vitaminas y minerales
+sintéticos, creando la falsa impresión de que son saludables.
+Consumo impulsivo: consumo irreflexivo o falta de control.
+Sintético: elemento químico que no aparece de forma natural.
+
+-- 27 of 102 --
+
+30 GUÍA ALIMENTARIA
+C A R N E
+NATURAL PROCESADO ULTRAPROCESADO
+Ingredientes:
+Carne de vaca
+Ingredientes:
+Carne de pollo
+Ingredientes:
+Carne de pescado
+Ingredientes:
+Carne de cerdo
+Ingredientes:
+Pata de cerdo
+Sal
+Azúcar
+Pimienta
+Ingredientes:
+Carne de cerdo
+Agua
+Sal
+Proteína de soja
+Leche en polvo
+Dextrosa
+Fosfatos
+Carragenina
+Antioxidante
+Nitrito de sodio
+Ingredientes:
+Carne bovina
+Agua
+Proteína de soja
+Sal
+Glutamato
+monosódico
+Polifosfato de sodio
+Eritorbato de sodio
+Acido nicotínico
+Ingredientes:
+Carne de pollo
+Pan rallado
+Agua
+Piel de pollo
+Harina de arroz
+Grasa vegetal
+Proteína de soja
+Harina de trigo
+Sal
+Almidón de maíz
+Salsa de soja
+Fécula de mandioca
+Vinagre
+Leche entera en polvo
+Proteína vegetal
+hidrolizada
+Cebolla en polvo
+Antioxidante eritorbato
+de sodio
+Aromatizantes
+naturales (ajo y
+pimienta blanca)
+Ingredientes:
+Carne vacuna
+Fécula de papa
+Gordura suina
+Leche en polvo
+Fosfatos
+Sal
+Dextrosa
+Especias
+Ácido ascórbico
+Nitrito de sodio
+El número elevado de ingredientes y, sobre todo, la presencia
+de componentes con nombres muy poco familiares indican que
+el producto es ultraprocesado. Estos son algunos ejemplos
+que permiten observar la diferencia entre alimentos naturales,
+procesados y ultraprocesados.
+* Las imágenes son representativas del tipo de producto. Sin embargo, se reconoce que los ingredientes pueden variar de un producto a otro.
+
+-- 28 of 102 --
+
+31	GUÍA ALIMENTARIA
+T O M A T E
+NATURAL PROCESADO ULTRAPROCESADO
+F R U T A
+NATURAL PROCESADO ULTRAPROCESADO
+Ingredientes:
+Tomate Ingredientes:
+Tomate
+Cebolla
+Sal
+Ingredientes:
+Agua
+Azúcar
+Vinagre
+Pasta de tomate
+Almidón modificado de maíz
+Sal iodada
+Benzoato de sodio
+(conservante)
+Saborizante idéntico al
+natural (tomate)
+Colorante natural (color
+caramelo clase IV)
+Saborizante artificial (cátsup)
+Colorante artificial (rojo 40)
+Ingredientes:
+Durazno
+Ingredientes:
+Durazno
+Azúcar
+Ingredientes:
+Agua
+Jugo concentrado
+de durazno
+Jarabe de maíz de
+alta fructosa
+Azúcar
+Vitaminas
+Ácido cítrico
+Ácido ascórbico
+Eritrobato de sodio
+Aromatizante
+Ingredientes:
+Agua
+Jarabe de maíz de
+alta fructosa
+Semillas de soja
+Azúcar
+Maltodextrinas
+Aromatizantes
+Vitaminas
+Sulfato ferroso
+Acidulantes
+Ácido cítrico
+Estabilizantes
+Pestinas
+Ingredientes:
+Maltodextrinas
+Betacaroteno
+Ciclamato de sodio
+Aspartamo
+Acesulfame K
+Gima xantán
+Dióxido de titanio y
+tartrazina
+Carboximetilcelulosa
+sódica
+* Las imágenes son representativas del tipo de producto. Sin embargo, se reconoce que los ingredientes pueden variar de un producto a otro.
+
+-- 29 of 102 --
+
+32 GUÍA ALIMENTARIA
+C E R E A L E S
+NATURAL PROCESADO ULTRAPROCESADO
+Ingredientes:
+Harina de trigo
+Hierro
+Ácido fólico
+Ingredientes:
+Avena
+Ingredientes:
+Harina integral
+Ingredientes:
+Harina integral
+de maíz
+Ingredientes:
+Harina
+Agua
+Levadura
+Sal
+Ingredientes:
+Harina de trigo fortificada
+Cobertura símil chocolate
+Azúcar
+Aceite vegetal hidrogenado
+Cacao en polvo
+Emulsionante: lecitina de soja
+Aromatizante/saborizante: vainilla
+Grasa vacuna refinada
+Almidón de maíz
+Jarabe de fructosa
+Sal
+Leudantes químicos: bicarbonato de
+sodio y bicarbonato de amonio
+Ingredientes:
+Mezcla de cereales
+(harina de maíz
+integral, sémola de
+maíz)
+Azúcar
+Almidón de maíz
+Jarabe de glucosa
+Aceite de palma
+Fosfato tricálcico
+Fosfato dicálcico
+Goma arábica
+Sal iodada
+Saborizante artificial
+Ingredientes:
+Cereal de maíz
+Aceite vegetal
+Maltodextrina
+Sólidos de la leche
+Sal iodada
+Aceite vegetal
+parcialmente
+hidrogenado
+Harina de soja
+Queso
+Glutamato
+monosódico
+Citrato trisódico
+Ácido cítrico
+Ácido málico
+Fosfato trisódico
+Colorantes
+Vitaminas y
+minerales: niacina;
+ácido pantoténico;
+vitaminas b6, b2 y
+b1; ácido fólico;
+carbonato de
+calcio; hierro y zinc.
+Almidón modificado
+Ácido cítrico
+Proteína de soja
+Colorantes
+Harina de maíz
+Achiote
+Inosinato de sodio
+Ácido láctico
+Guanilato de sodio
+* Las imágenes son representativas del tipo de producto. Sin embargo, se reconoce que los ingredientes pueden variar de un producto a otro.
+
+-- 30 of 102 --
+
+33	GUÍA ALIMENTARIA
+L E C H E
+NATURAL PROCESADO ULTRAPROCESADO
+P A P A S
+NATURAL PROCESADO ULTRAPROCESADO
+Ingredientes:
+Leche pasteurizada
+Ingredientes:
+Leche pasteurizada
+Azúcar
+Fermentos
+Ingredientes:
+Leche pasteurizada
+Fermentos
+Lácteos
+Cuajo
+Sal
+Ingredientes:
+Leche entera
+pasteurizada
+Azúcar
+Cacao en polvo
+Ingredientes:
+Leche pasteurizada
+Suero lácteo
+Azúcar
+Almidón de maíz
+Fermento láctico
+Estabilizante:
+carragenina
+Aromatizante:
+esencia de
+caramelo
+Colorante natural
+Aromatizante y
+saborizante artificial
+de durazno o frutilla
+Ingredientes:
+Papas Ingredientes:
+Papa
+Arveja dehidratada
+Zanahoria
+Agua
+Sal
+Azúcar
+Ingredientes:
+Papas
+Aceite vegetal de girasol
+Agua
+Sal
+Pimienta
+Nuez moscada
+Cúrcuma
+Dextrosa
+Estabilizante
+hidroxipropilmetilcelulosa
+Ingredientes:
+Papa
+Aceite vegetal
+Maltodextrina
+Sal
+Sabores artificiales
+Suero de leche en
+polvo
+Glutamato
+monosódico
+Proteína vegetal
+hidrolizada
+Almidón
+Ácido cítrico
+Antiapelmazante
+Colorantes artificiales
+Conservante
+Guanilato
+Inosinato de sodio
+* Las imágenes son representativas del tipo de producto. Sin embargo, se reconoce que los ingredientes pueden variar de un producto a otro.
+
+-- 31 of 102 --
+
+34 GUÍA ALIMENTARIA
+B E B I D A S
+NATURAL PROCESADO ULTRAPROCESADO
+Ingredientes:
+Agua
+Ingredientes:
+Jugo exprimido
+de naranja
+Azúcar
+Ingredientes:
+Agua
+Azúcar
+Jugo naranja (10 %)
+Anhídrido carbónico
+Sulfato de magnesio
+Lactato de calcio
+Vitaminas
+Regulador de acidez
+Citrato de sodio
+Ácido cítrico
+Sabor naranja
+Sorbato de potasio
+Edulcorante
+Ingredientes:
+Agua carbonatada
+Azúcar
+Jugo de limón
+Cloruro de sodio
+Sabor natural de naranja
+Benzoato de sodio
+Sorbato de potasio
+Regulador de la acidez
+Colorante
+Ingredientes:
+Agua
+Jarabe de maíz de alta
+fructosa
+Azúcar
+Cloruro de sodio
+Ácido cítrico
+Aroma a frambuesa
+Fosfato monopotásico
+Citrato de sodio
+Azul brillante
+Ingredientes:
+Agua carbonatada
+Azúcar
+Colorante
+Extractos vegetales
+Acidulantes
+Benzoato de sodio
+* Las imágenes son representativas del tipo de producto. Sin embargo, se reconoce que los ingredientes pueden variar de un producto a otro.
+
+-- 32 of 102 --
+
+35	GUÍA ALIMENTARIA
+El procesamiento en sí mismo no determina que el alimento
+deje de ser saludable; de hecho, ciertos tipos de procesamiento
+son indispensables, beneficiosos o inocuos. Sin embargo,
+muchos de los productos ultraprocesados contienen más
+calorías, azúcar, sal y grasas de mala calidad que los alimentos
+naturales y las comidas caseras. Además, como conservan muy
+poco de la matriz del alimento natural, son pobres en fibras y
+en muchas de las sustancias bioactivas y antioxidantes.
+Para que el producto tenga una larga vida útil, se utilizan
+grandes cantidades de sal y se emplean grasas resistentes
+a la oxidación —como las grasas trans—, que tienden a
+obstruir las arterias. La sal, además de extender la duración del
+producto, se usa para intensificar el sabor (incluso el dulce) y
+para cubrir otros sabores desagradables que se generan en el
+procesamiento.
+Utilizando azúcares, grasas, sal y varios aditivos, se exacerba
+el sabor de los productos ultraprocesados, tanto que pueden
+incluso inducir un hábito.
+Bioactivos: cumplen funciones que promueven la buena salud. Están en
+estudio para la prevención del cáncer, las enfermedades del corazón y otras.
+Incluyen el licopeno, el resveratrol, los lignanos, los taninos y los indoles.
+Grasas trans: tipo de grasa que se forma a nivel industrial cuando el aceite
+líquido se transforma en una grasa sólida por añadidura de hidrógenos.
+Aditivo: sustancia que se le agrega a los alimentos y bebidas para modificar su
+color, sabor o textura y facilitar su procesamiento y conservación.
+Además de la excesiva
+cantidad de sodio, grasas y
+azúcares que contienen, los
+productos ultraprocesados
+«engañan» los mecanismos
+que regulan el apetito. Poseen
+ciertas características que
+hacen que el cerebro y el
+aparato digestivo subestimen
+las calorías que ingerimos,
+entonces no se desencadena
+la señal que indica que
+estamos satisfechos o se
+desencadena tardíamente.
+Como resultado, al comer este
+tipo de productos tendemos,
+sin darnos cuenta, a comer
+más de lo necesario, lo que
+nos predispone a la obesidad .
+Alerta
+
+-- 33 of 102 --
+
+36 GUÍA ALIMENTARIA
+Calorías , sodio (mg) y grasas (g) en 100 g de:
+carne vacuna, hamburguesas, panchos, jamón cocido, mortadela y nuggets
+0
+50
+100
+150
+200
+250
+300
+350
+400 CALORÍAS SODIO	1000
+900
+800
+700
+600
+500
+400
+300
+200
+100
+0
+30
+25
+20
+15
+10
+5
+0
+GRASAS TOTALES GRASAS SATURADAS	30
+25
+20
+15
+10
+5
+0
+Estos son solo algunos ejemplos de la cantidad excesiva de calorías, sodio, grasas y azúcares de
+algunos productos ultraprocesados de consumo habitual, comparados con alimentos naturales,
+alimentos procesados y preparaciones caseras .
+* Los valores de los nutrientes que se incluyen en las gráficas son promedios. Se reconoce que existen variaciones entre distintos productos.
+
+-- 34 of 102 --
+
+37	GUÍA ALIMENTARIA
+Calorías , sodio (mg) y grasas (g) en 100 g de:
+guisos, estofados, cazuelas; pastas rellenas con salsa o tuco; pizza;
+papas prefritas congeladas; y hamburguesas al pan
+CALORÍAS SODIO	800
+700
+600
+500
+400
+300
+200
+100
+0
+18
+16
+14
+12
+10
+8
+6
+4
+2
+0
+GRASAS TOTALES GRASAS SATURADAS
+350
+300
+250
+200
+150
+100
+50
+0
+18
+16
+14
+12
+10
+8
+6
+4
+2
+0
+* Los valores de los nutrientes que se incluyen en las gráficas son promedios. Se reconoce que existen variaciones entre distintos productos.
+
+-- 35 of 102 --
+
+38 GUÍA ALIMENTARIA
+Calorías , azúcar agregado (g) y grasas (g) en 100 g de:
+pan, cereales de desayuno, galletitas al agua, galletitas dulces, alfajores,
+galletitas rellenas y snacks
+CALORÍAS AZÚCARES LIBRES
+GRASAS TOTALES GRASAS SATURADAS
+700
+600
+500
+400
+300
+200
+100
+0
+70
+60
+50
+40
+30
+20
+10
+0
+60
+50
+40
+30
+20
+10
+0
+60
+50
+40
+30
+20
+10
+0
+EVITÁ EN EL DÍA A DÍA PRODUCTOS COMO:
+Papas fritas	Nuggets, panchos, hamburguesas y fiambres	Snacks
+Refrescos, jugos artificiales y aguas saborizadas	Alfajores y galletitas rellenas
+Helados y golosinas	Caldos y sopas instantáneas y aderezos
+* Los valores de los nutrientes que se incluyen en las gráficas son promedios. Se reconoce que existen variaciones entre distintos productos.
+
+-- 36 of 102 --
+
+39	GUÍA ALIMENTARIA
+3. Comenzá el día con un buen desayuno y no te saltees comidas
+El desayuno es la comida más importante del día
+Tras el ayuno, el desayuno nos proporciona la energía y los nutrientes para hacer frente al día.
+Además, nos ayuda a mantener un peso apropiado y a mejorar el rendimiento físico y mental.
+Saltearse el desayuno produce decaimiento, falta de concentración y ¡mal humor!
+Como se trata de la principal comida del día, es necesario tomarse el tiempo cada mañana para
+comenzar el día. El obstáculo principal para no comenzar el día con el desayuno es la falta de
+tiempo. Una buena estrategia para incorporar el hábito es dejarlo pronto en la noche anterior y
+levantarse quince minutos antes.
+En el desayuno no debe faltar el lácteo, el pan y la fruta que más te guste.
+La leche, el yogur, el queso y la ricota aportan calcio y vitaminas A y D. Sin lácteos en el desayuno
+es difícil alcanzar las tres porciones que precisamos por día para mantener la salud de los huesos.
+Si bien algunas culturas obtienen el calcio de
+otras fuentes alimentarias, dos terceras partes
+del calcio que consumimos los uruguayos
+proviene de los lácteos.
+Todos son ricos en calcio, a excepción de
+la manteca y la crema de leche. La leche
+descremada tiene la misma cantidad de calcio
+y proteínas que la entera, pero menos calorías
+porque perdió la grasa.
+Algunos yogures, leches saborizadas y bebidas
+lácteas contienen excesiva cantidad de azúcar.
+Por lo tanto, es recomendable leer la etiqueta
+y elegir aquellos con menor contenido.
+Si tenés intolerancia a los lácteos, es
+conveniente realizar una consulta con
+nutricionista para que te oriente sobre cómo
+puedes sustituirlos.
+Lácteos: alimentos como la leche y sus derivados, generalmente fermentados, tales como los yogures y los quesos.
+¿Por qué recomendamos los lácteos?
+
+-- 37 of 102 --
+
+40 GUÍA ALIMENTARIA
+Además, el desayuno es una excelente oportunidad
+para aumentar nuestro consumo de frutas. No es
+recomendable sustituirlas por jugos, ya que pierden algunas
+de sus propiedades como la fibra. Menos aún por jugos
+industrializados que generalmente contienen azúcares o jarabe
+de maíz de alta fructosa. Todas las frutas son buenas: elegí las
+que más te gusten. Si no tenés el hábito de consumir frutas
+frescas con el desayuno, podés incorporarlas a media mañana.
+El otro componente de un desayuno completo son los
+panificados. Consumir pan, avena o tortas caseras permite
+obtener la energía que el organismo necesita después del
+ayuno. Además, si los elegimos integrales aportan más fibra.
+Agregar semillas o nueces hace que el desayuno sea más
+nutritivo. No sustituyas el pan por bizcochos, alfajores o
+galletitas dulces y rellenas, ya que tienen excesiva cantidad de
+azúcar, grasas y calorías.
+Un desayuno completo y
+balanceado incluye algún
+lácteo, una porción de fruta y
+algún panificado.
+Mejor consumir la fruta
+que el jugo.
+Recordá
+Pan francés: flauta,
+porteño, felipe,
+marsellés.
+- no tienen azúcar
+- tienen casi nada de
+grasa
+Tené en cuenta
+Galletas marinas y
+malteadas
+- no tienen azúcar
+- 10 % de grasa
+Galletitas al agua
+- no tienen azúcar
+- entre 13 y 15 % de
+grasa
+Galletitas tipo María
+- tienen azúcar
+- casi 20 % de grasa
+Bizcochos de
+panadería
+- entre 25 y 30 %
+de grasa
+Galletitas rellenas
+- principal
+componente: azúcar
+25 % de grasa
+
+-- 38 of 102 --
+
+41	GUÍA ALIMENTARIA
+Estos son algunos ejemplos de desayunos
+para que elijas los que más te gusten.
+Si tenés el hábito de comer pan con manteca, untalo con una
+capa bien fina y preferí la leche descremada. Si nunca probaste
+el pan con aceite de oliva te sugerimos que lo hagas: es una
+opción saludable y un sustituto perfecto de la manteca. La
+palta también es rica en grasas saludables y se puede utilizar
+pisada para untar el pan.
+Té con leche, tostadas
+integrales, manteca y dos
+ciruelas.
+
+-- 39 of 102 --
+
+42 GUÍA ALIMENTARIA
+Elegí quesos con poca grasa y sal.
+Una buena opción es la ricota.
+El pan flauta no tiene grasa ni
+aditivos ni conservantes.
+Mate, tostadas integrales, ricota o queso y manzana.
+Café, dos tostadas de pan flauta, ricota o
+queso, licuado de fruta hecho en casa.
+
+-- 40 of 102 --
+
+43	GUÍA ALIMENTARIA
+Siempre que sea posible
+consumí yogur natural, que
+no tiene agregados de azúcar.
+Podés hacerlo en casa,
+agregándole un vaso de yogur
+comprado a un litro de leche
+tibia.
+Yogur natural, avena, manzana
+rallada y miel.
+La avena es un cereal integral
+rico en fibra que ayuda a
+regular la sensación de apetito
+y aporta muchas vitaminas (en
+especial E, B1 y B2) y minerales.
+El pan integral aporta más
+fibra y vitaminas. Animate a
+prepararlo en casa y agregale
+semillas de sésamo, girasol,
+chia, nueces, almendras o las
+que más te gusten.
+Café con leche, naranja y pan
+integral con mermelada.
+
+-- 41 of 102 --
+
+44 GUÍA ALIMENTARIA
+No te saltees las comidas principales
+Nuestras familias tradicionalmente compartían las comidas
+principales en un horario establecido. Hoy, sin embargo, este
+hábito se ha perdido; es frecuente que se omitan las comidas
+y se sustituyan por el picoteo. Las comidas realizadas en
+horarios más o menos fijos, consumidas con atención y sin
+apuro favorecen la digestión y evitan que se coma más de lo
+necesario.
+Cuando pasamos muchas horas sin comer, tendemos a picotear
+—especialmente cuando tenemos al alcance de la mano
+productos en atractivos envases y con sabores acentuados
+como snacks, chocolates y golosinas—. Mantener una rutina
+de comidas es un buen mecanismo para controlar cuánto
+comemos.
+El sobrepeso y algunas
+carencias específicas de
+nutrientes están relacionados
+con haber perdido la rutina
+de las comidas y haberlas
+sustituido por el picoteo.
+Procurá mantener un horario
+para tus comidas y no te
+saltees ninguna. ¡Que el
+picoteo sea la excepción!
+Recordá
+
+-- 42 of 102 --
+
+45	GUÍA ALIMENTARIA
+Estos son algunos ejemplos para el almuerzo y la cena: se puede
+observar cómo los tradicionales platos de las familias uruguayas
+pueden constituir, con pequeñas modificaciones, la base de una
+alimentación saludable.
+En tus comidas de olla, agregá más verduras
+y legumbres, y menos panceta y chorizo.
+Estofado de carne con papas,
+zanahoria, zapallo, cebolla y
+morrón. Postre: manzana.
+Guiso de lentejas o de
+porotos con cebolla, morrón,
+zanahoria, calabaza y arroz
+integral. Postre: naranja.
+Guiso de carne (vacuna magra
+o de pollo), arroz y verduras
+(cebolla, morrón, zanahoria,
+boniato, zapallo). Postre: pera.
+
+-- 43 of 102 --
+
+46 GUÍA ALIMENTARIA
+Las pastas, la polenta y las salsas permiten incorporar gran variedad de verduras.
+Animate a probar nuevas recetas.
+Canelones de espinaca.
+Postre: banana.
+Zapallitos rellenos de carne,
+arroz integral, ensalada.
+Postre: frutillas.
+Sopa de verdura, tallarines
+con salsa de tomate y brócoli,
+y queso. Postre: naranja.
+Tarta de pescado, ensalada de
+tomate, lechuga y remolacha.
+Postre: melón.
+Tortilla de papa con ensalada
+de brócoli, choclo y tomate.
+Postre: pera.
+Ensalada de repollo y
+zanahoria, polenta con tuco.
+Postre: mandarina.
+Aumentá cada día la cantidad de verduras y de pescado en tu mesa.
+
+-- 44 of 102 --
+
+47	GUÍA ALIMENTARIA
+
+-- 45 of 102 --
+
+48 GUÍA ALIMENTARIA
+
+-- 46 of 102 --
+
+49	GUÍA ALIMENTARIA
+4. Cocinar nuestros propios alimentos hace
+bien: descubrí el gusto por la cocina y que
+sea una actividad compartida.
+Todas las familias tenemos recetas que han impregnado
+nuestra historia. Sabemos de la capacidad del olfato para traer
+recuerdos: la torta de la abuela, el arroz con leche de la tía o
+los estofados del vecino tienen profundas raíces en nuestro
+cerebro.
+Sin embargo, el ritmo de la vida actual ha provocado que se
+pierda el olorcito rico a comida casera en algunas de nuestras
+cocinas. A través de esta guía, también queremos invitarte
+a descubrir el gusto por la cocina y transmitirte que con
+recetas simples y fáciles se puede cocinar ¡y comer rico, sano y
+nutritivo!
+Cuando cocinamos en casa podemos elegir con libertad los
+ingredientes y las formas de cocción, así como agregar menos
+sal y azúcar. En otras palabras, preparar comida casera amplía
+el abanico de alternativas saludables.
+Pensar entre todos qué se va a comer o compartir la compra
+y la preparación de las comidas, e incluso el lavado de los
+platos, fortalece los vínculos y la convivencia familiar. Lo que
+podría resultar tedioso se transforma en una oportunidad para
+charlar, intercambiar opiniones y disfrutar de la comida casera.
+Por eso te recomendamos que compartas con los integrantes
+del hogar la planificación, la compra y la preparación de las
+comidas.
+La falta de tiempo, tanto para los varones como para las
+mujeres, es uno de los obstáculos más frecuentes al que nos
+enfrentamos día a día. Planificar las comidas de la semana y
+organizarte en función de ello es una buena forma de disfrutar
+más la cocina en casa. Además, no es necesario cocinar como
+los grandes cocineros para alimentarnos rico y en forma
+adecuada.
+
+-- 47 of 102 --
+
+50 GUÍA ALIMENTARIA
+Lavá por adelantado las verduras y las frutas, y
+guardalas adecuadamente.
+Dejá los porotos, garbanzos o arvejas en remojo por
+algunas horas. Cociná más cantidad de la que vas a
+utilizar y guardalos fraccionados en el freezer para
+una próxima ocasión.
+Picá y congelá cebolla y morrón para tener como
+base para salsas, guisos, cazuelas, etc.
+Congelá en forma fraccionada la acelga o espinaca
+hervida, la zanahoria y el brócoli. Las tendrás a
+mano para preparar pascualina o tartas.
+Prepará y congelá comida para la semana, por
+ejemplo: tartas de verdura, milanesas de diferentes
+carnes, pollo asado.
+Aprovechá los vegetales congelados que están en
+venta en el mercado. Son naturales; solo han sido
+sometidos a un tratamiento térmico que no afecta
+su valor nutricional.
+Algunos consejos para facilitar la tarea
+Compartir las
+responsabilidades hace
+que la tarea sea más fácil y
+gratificante para todos. La
+cocina es un arte creativo
+tanto para varones como para
+mujeres. ¡Disfrutémoslo!
+Recordá
+
+-- 48 of 102 --
+
+51	GUÍA ALIMENTARIA
+Actualmente es habitual que, durante la jornada de trabajo,
+tengamos que comer en restaurantes o bares. Si ese es tu caso,
+lo más conveniente es que selecciones aquellos que te ofrecen
+preparaciones de tipo casero a base de alimentos naturales o
+mínimamente procesados. Siempre que sea posible, evitá los
+locales de comida rápida.
+Lo más aconsejable es que prepares tu vianda el día anterior:
+si te organizás, es posible invertir tiempo para preparar en
+casa una vianda para llevar al trabajo. Casi siempre, se puede
+preparar a partir de la cena elaborada la noche anterior.
+Cuando calientes los alimentos en microondas verificá que los
+envases sean aptos: preferí material de vidrio, loza, cerámica
+o plástico apto para microondas. No utilices los envases o las
+bandejas descartables de plástico o espuma plast.
+Las papas fritas, las
+hamburguesas, el choripán,
+los panchos y los sándwiches
+calientes contienen excesiva
+cantidad de calorías, grasas y
+sal.
+Alerta
+No concurras a almorzar
+o cenar con un apetito
+desmesurado y procurá que
+la comida sea liviana si debés
+volver a trabajar.
+Tené en cuenta
+
+-- 49 of 102 --
+
+Ideas para preparar viandas saludables:
+Tarta de verduras (zapallitos, zucchinis, acelga,
+puerros o berenjenas, con cebolla, morrón,
+huevos y queso) con semillas de chía.
+Ensalada de cebolla y tomate. Postre:
+mandarinas.
+Milanesa al horno de pescado, pollo o carne.
+Zapallo o calabaza en trozos asada con aceite
+Ensalada de repollo y zanahoria.
+Postre: manzana.
+Empanadas de pescado al horno, ensalada de chauchas, choclo, morrón, brócoli aderezado con
+aceite y semillas de sésamo tostado. Postre: yogur descremado con frutas picadas (frutillas y
+banana).
+
+-- 50 of 102 --
+
+Pastel de carne, espinaca y zanahoria con salsa
+blanca. Ensalada de lechuga, remolacha y
+cebolla. Postre: ensalada de frutas.
+Milanesa de berenjena, zucchini o zapallito al
+horno. Arroz. Ensalada de lentejas, cebolla,
+tomate, perejil y cubitos de queso aderezada
+con aceite. Postre: pera.
+Salpicón de pollo, arroz, morrón rojo, morrón
+verde, granos de choclo, zanahoria, arvejas,
+apio, cebolla y nueces picadas, aderezado con
+aceite y semillas de sésamo.
+Postre: frutillas y naranjas picadas.
+Pollo asado sin piel, con puré de papa casero
+Ensalada de repollo colorado, zanahoria
+rallada y tomate aderezada con aceite.
+Postre: Banana.
+
+-- 51 of 102 --
+
+54 GUÍA ALIMENTARIA
+Algunas ideas para cuando tenés que recurrir a los refuerzos,
+sándwiches o bocatas:
+Los rellenos de verduras pueden ser muy variados: cebolla,
+zanahoria, pepino, remolacha, choclo, espinaca o acelga,
+hongos, morrones, apio… Animate a variar e incorporá otras
+verduras además de los clásicos lechuga y tomate.
+Acompañar las verduras con ricota es una excelente
+combinación, sobre todo si se realza su sabor con hierbas
+aromáticas como albahaca o ciboulette, o con frutas secas
+como nueces. En lugar de fiambres, preferí las fetas de carnes
+blancas o rojas, pescado y huevo. Si elegís fiambre, con una
+feta fina es suficiente, y es recomendable sacarles la grasa
+visible. Acompañarlos con verduras variadas aumenta el
+volumen y brindan saciedad.
+Ha llegado la hora de
+revalorizar la alimentación
+en nuestras vidas y conceder
+mayor relevancia al proceso
+de comprar, preparar y comer
+alimentos hechos en casa.
+Para
+reflexionar
+Bocata multicolor: pan integral, trozos de pollo
+o pescado, aros de cebolla, lechuga, zanahoria
+rallada, morrón en tiras, brócoli, huevo duro en
+rodajas, aderezado con aceite.
+Bocata: pan de flauta, trozos de pollo o
+pescado, chauchas, lechuga, zanahoria rallada,
+morrón en tiras, remolacha, aderezado con
+aceite.
+
+-- 52 of 102 --
+
+55	GUÍA ALIMENTARIA
+5. Sé crítico con la información y los
+mensajes publicitarios que recibes sobre
+alimentación.
+La publicidad induce a creer que los productos que promueve
+son de mejor calidad, que nos hacen más felices, atractivos,
+fuertes o sanos, o que son necesarios para hacer deportes o
+actividad física. Tené siempre presente que la función de la
+publicidad es aumentar la venta, no informar ni educar.
+Por la influencia que ejercen en la elección de las compras
+de las familias, las niñas y los niños son el principal público
+objetivo de la publicidad de alimentos. En la niñez, se están
+formando hábitos de consumo que podrán prolongarse por
+el resto de sus vidas, lo cual resulta muy atractivo para las
+empresas.
+Los mensajes publicitarios de alimentos dirigidos a este público
+son repetitivos y dominantes, e integran gran parte de sus
+entornos cotidianos.
+La televisión es el canal de comunicación más utilizado para
+la promoción de alimentos dirigida a la niñez. Pero también
+hay otros medios como las redes sociales —Facebook,
+Twitter, Instagram, entre otros— y la promoción en escuelas,
+guarderías, bibliotecas, parques y eventos deportivos,
+musicales y recreativos. Muestras gratis, regalos, descuentos,
+envases atractivos y ubicación de los productos en puntos
+estratégicos de los supermercados son algunas de las técnicas
+de venta más utilizadas.
+Te recomendamos que limites la cantidad de tiempo que tus
+hijos pasan viendo la televisión y en internet. No estarán tan
+expuestos a la publicidad y serán más activos.
+Las niñas y los niños más
+expuestos a la publicidad
+solicitan la compra con mayor
+frecuencia de alimentos y
+bebidas con alto contenido de
+grasas, azúcares o sal.
+Alerta
+
+-- 53 of 102 --
+
+56 GUÍA ALIMENTARIA
+Las empresas cada vez invierten más dinero en la promoción
+de sus productos envasados y listos para consumir.
+Progresivamente están sustituyendo a los alimentos
+naturales preparados en el hogar. Un cambio tan radical en
+la alimentación humana no se había observado desde que se
+sustituyó la caza y la recolección para pasar a la agricultura. Los
+efectos se manifiestan en la epidemia de la obesidad, cuyas
+consecuencias ya se han convertido en el mayor problema de
+salud pública de muchos países, incluido el Uruguay.
+
+-- 54 of 102 --
+
+57	GUÍA ALIMENTARIA
+A su vez, existe la percepción de que la alimentación saludable
+es excesivamente cara. Si bien es verdad que algunos
+alimentos naturales —como ciertas frutas y verduras— pueden
+tener un costo mayor en algunas estaciones del año en
+comparación a ciertos productos ultraprocesados, esto es
+solo una verdad a medias. La realidad es que, en nuestro país,
+el costo de una alimentación basada en alimentos naturales
+o mínimamente procesados es más bajo que el de una
+alimentación basada en productos ultraprocesados.
+Esto puede estar relacionado con que muchas veces la
+publicidad transmite la idea equivocada que para alimentarnos
+bien debemos adquirir productos ultraprocesados
+«enriquecidos» con vitaminas, minerales y otros nutrientes, o
+productos «light». Este mensaje es erróneo: una alimentación
+basada en una gran variedad de alimentos naturales provee
+todos los nutrientes necesarios.
+Asimismo, no creas en las promesas de productos para la
+«pérdida rápida de peso», «sin dietas ni ejercicios», «sin riesgos
+para la salud» o que son la «solución para la diabetes» o para
+«combatir el cáncer». Recordá que no existen los alimentos ni
+los productos mágicos.
+La publicidad explota las
+creencias irracionales, los
+deseos y las ilusiones.
+Muchas veces da información
+ambigua o que no se basa en
+ninguna evidencia científica.
+En general, se vale de los
+medios que a los niños más
+les gustan: regala premios
+y juguetes coleccionables,
+usa personajes y personas
+admiradas por los niños como
+los jugadores de fútbol o los
+dibujos animados.
+Para
+reflexionar
+Como ciudadanos tenemos
+el derecho al acceso a
+información confiable y
+suficiente para elegir bien
+informados.
+Recordá
+
+-- 55 of 102 --
+
+58 GUÍA ALIMENTARIA
+6. Acumulá al menos dos horas y media de
+actividad física por semana y disminuí el
+tiempo que permanecés sentado.
+El movimiento y la práctica regular de la actividad física nos
+aporta beneficios fisiológicos, psicológicos y sociales que
+contribuyen a prolongar y a mejorar la calidad de nuestras
+vidas.
+Cuando practicamos actividad física mejoramos nuestro estado
+de ánimo y disminuimos el riesgo de padecer estrés, ansiedad y
+depresión, así como también aumentamos nuestra autoestima.
+La actividad física representa una vivencia personal y una
+oportunidad para disfrutar del entorno y para interactuar con
+otras personas. Además, es esencial para el mantenimiento y la
+mejora de la salud a cualquier edad porque:
+reduce el riesgo de
+padecer enfermedades
+cardiovasculares,
+hipertensión, cáncer de colon
+y diabetes;
+ayuda a controlar el
+sobrepeso, la obesidad y el
+porcentaje de grasa corporal;
+fortalece los músculos y
+los huesos, aumentando la
+densidad ósea.
+
+-- 56 of 102 --
+
+59	GUÍA ALIMENTARIA
+Ideas para que te muevas
+un poco más cada día
+En el hogar:
+realizar tareas de jardinería
+limpiar la casa
+subir escaleras
+lavar el auto
+pasear al perro
+En el tiempo libre:
+usar los parques y plazas
+aprovechar las ciclovías y gimnasios al aire
+libre
+unirse a clubes, gimnasios o plazas de
+deporte
+realizar paseos caminando o en bicicleta,
+en familia o con amigos
+En el transporte:
+utilizar la bicicleta o caminar, ya sea como
+único medio de trasporte o combinado con
+otros
+bajarse dos o tres paradas antes del destino
+o dejar el auto estacionado más lejos
+llevar a los niños a la escuela caminando o
+en bicicleta
+
+-- 57 of 102 --
+
+60 GUÍA ALIMENTARIA
+La actividad física beneficiosa para la salud es aquella de
+intensidad moderada que se realiza diariamente, o casi todos
+los días, con una duración mínima de 30 minutos. Este tiempo
+mínimo de actividad física diaria es esencial.
+Los ejercicios y actividades de menor frecuencia —dos o tres
+veces por semana— pueden mejorar la forma física, pero
+tienen efectos menos importantes para la salud.
+La duración aconsejada depende de la intensidad. Si no es
+posible realizar actividad física de intensidad moderada, se
+pueden realizar 60 minutos de intensidad suave. Para conocer
+la intensidad de la actividad física conviene preguntarse: ¿cuál
+es mi temperatura?, ¿cómo se encuentra mi respiración?, ¿a qué
+ritmo late mi corazón?
+La actividad física de intensidad
+moderada se caracteriza por
+el aumento de la sensación de
+calor y el inicio de una ligera
+sudoración; el ritmo de la
+respiración y de los latidos del
+corazón se incrementa, pero
+aún te permiten hablar.
+La actividad física de
+intensidad suave se caracteriza
+por el inicio de sensación de
+calor y un ligero aumento del
+ritmo de la respiración y de los
+latidos del corazón.
+Recordá
+Los niños necesitan participar
+en actividades físicas de
+intensidad moderada durante
+una hora por día. Además, al
+menos dos veces a la semana,
+parte de estas actividades
+físicas deben ayudar a mejorar
+y mantener la fuerza muscular
+y la flexibilidad.
+Tené en cuenta
+
+-- 58 of 102 --
+
+61	GUÍA ALIMENTARIA
+Números
+que importan
+Si dividís tu actividad en dos o tres caminatas o paseos en bicicleta de 10 minutos o más, obtenés
+el mismo beneficio que si lo hacés en una sola sesión de 20 o 30 minutos.
+Por lo tanto, con un paseo de 10 minutos a paso ligero antes del desayuno, más una carrerita de
+10 minutos por la tarde y un paseo de 10 minutos después de cenar ya habrás hecho la actividad
+diaria mínima necesaria para mantenerte sano.
+10’ + 10’ + 10’ 30’
+Actividad
+física diaria
+=
+Para no cansarse es bueno ir de menos a más: al practicar
+actividad física diariamente y al propio ritmo se mejora la
+capacidad física y se puede ir aumentando la intensidad de
+forma progresiva.
+Las pequeñas cosas de la vida son las que más cuentan. Y lo
+mismo ocurre con la actividad física: con pequeños cambios se
+consiguen grandes resultados.
+Recordá
+
+-- 59 of 102 --
+
+62 GUÍA ALIMENTARIA
+Además, practicar la actividad física no es suficiente: también
+es necesario evitar el sedentarismo.
+Por lo tanto, te recomendamos que evites pasar períodos
+sentado mayores a dos horas.
+
+-- 60 of 102 --
+
+63	GUÍA ALIMENTARIA
+Algunas ideas para evitar el sedentarismo:
+En el trabajo o centro de estudio:
+caminar cinco minutos por cada hora
+sentado
+realizar reuniones de pie
+hablar por teléfono caminando
+buscar la comida fuera en vez de pedir
+delivery
+usar las escaleras
+realizar pausas activas
+inscribirse en los grupos deportivos del
+trabajo, escuela o liceo
+aprovechar los recreos y tiempos libres para
+moverse (jugar, caminar, estirar)
+En casa:
+levantarse del sillón
+pararse en cada tanda televisiva
+pararse para hablar por teléfono
+ACTIVIDAD FÍSICA
+
+-- 61 of 102 --
+
+64 GUÍA ALIMENTARIA
+
+-- 62 of 102 --
+
+65	GUÍA ALIMENTARIA
+Las claves para alcanzar una
+alimentación saludable y
+placentera en tu mesa
+
+-- 63 of 102 --
+
+66 GUÍA ALIMENTARIA
+1. Preferí siempre el agua a otras bebidas.
+Limitá los refrescos, los jugos artificiales y
+las aguas saborizadas.
+El agua es imprescindible para la vida. Está presente en todos
+los procesos vitales. Regula la temperatura corporal y es
+esencial para el correcto funcionamiento de los riñones, el
+intestino y el cerebro. Favorece la eliminación de las toxinas,
+cuida la piel y nos ayuda a rendir más física y mentalmente.
+El agua que se pierde a través de la respiración, la orina, el
+sudor y las deposiciones debe ser repuesta. La cantidad de
+agua que necesitamos varía según la edad y el peso, así como
+también depende del clima y de la intensidad de la actividad
+física que realizamos. En cantidad suficiente, el agua no solo
+nos quita la sed, sino que nos protege y nos da bienestar.
+El bajo consumo de agua produce problemas en los riñones
+y en el intestino, dolor de cabeza y fatiga. La deshidratación
+también causa la pérdida de la protección salival contra el
+desgaste, la erosión y la abrasión de los dientes. Por todo esto
+es tan importante tomar agua luego de hacer deportes.
+Es necesario recordar tomar agua y no esperar a tener sed
+para hacerlo, ya que sentir sed es un signo incipiente de
+deshidratación. El agua potable de la canilla o embotellada es
+la mejor opción para hidratarse.
+No esperes a tener sed.
+¡Recordá tomar agua! Si
+tomás poca, disminuye
+tu rendimiento físico y
+mental.
+Si vas a permanecer
+largas horas fuera de
+tu casa o vas a caminar,
+andar en bicicleta o
+hacer deporte, llevate
+siempre una botella de
+agua fresca.
+Tené en cuenta
+
+-- 64 of 102 --
+
+67	GUÍA ALIMENTARIA
+
+-- 65 of 102 --
+
+68 GUÍA ALIMENTARIA
+Refrescos y otras bebidas industrializadas
+Los refrescos, los jugos artificiales, las aguas saborizadas, los
+jugos de fruta industrializados y las bebidas energizantes y para
+deportistas contienen azúcar y, muy frecuentemente, jarabe
+de maíz alto en fructosa. Ambos aportan calorías de manera
+innecesaria, que provocan aumento de peso.
+Cuando tomamos un refresco de 600 ml —el tamaño más
+vendido en Uruguay— estamos consumiendo más de 60 g de
+azúcar. Esto equivale a 12 cucharaditas de azúcar y más de 250
+calorías.
+El cerebro tiene poca capacidad para «registrar» las calorías de
+los refrescos y otras bebidas azucaradas. Esto se debe a que, en
+comparación con los alimentos, no generan la misma saciedad
+e incentivan al consumo desmesurado. Por eso predisponen al
+sobrepeso.
+Jugos de fruta
+Los exprimidos y jugos de fruta, a pesar de
+que tienen vitaminas y minerales, pueden
+contener tanta azúcar y calorías como los
+refrescos. Además, muchos jugos elaborados
+por la industria tienen azúcar agregada o
+jarabe de maíz de alta fructosa. Por eso te
+recomendamos que elijas las frutas naturales.
+Si a tu dieta diaria le agregaras
+el consumo de una lata de
+refresco azucarado, podés
+ganar hasta dos kilos y medio
+de peso al año.
+Tené en cuenta
+Té, café y mate
+El té, el café y el mate también son buenas
+opciones para la hidratación. No les agregues
+azúcar ni los tomes muy calientes. Si estás
+embarazada, reduce su consumo.
+
+-- 66 of 102 --
+
+69	GUÍA ALIMENTARIA
+El jarabe de maíz de alta
+fructosa es usado por la
+industria por su alto poder
+endulzante. Su consumo
+excesivo es peligroso para la
+salud porque se metaboliza
+directamente en el hígado y
+eleva las grasas en sangre.
+Las bebidas que contienen
+simultáneamente azúcar
+y jarabe de maíz de alta
+fructosa producen un efecto
+doblemente negativo y se
+asocian con la aparición
+de las enfermedades
+cardiovasculares, la diabetes
+tipo 2 y el síndrome
+metabólico.
+Alerta
+Jarabe de maíz: edulcorante líquido, creado a partir del almidón o fécula de
+maíz.
+Cafeína: estimulante del sistema nervioso central que produce un efecto
+temporal de restauración del nivel de alerta y eliminación de la somnolencia.
+Si estás habituado a tomar
+refrescos, podés comenzar a
+disminuir cada día la cantidad
+que tomás y sustituirlos por
+agua con limón, naranja,
+mandarina, hojas de menta,
+canela, jengibre o hierbas
+aromáticas.
+Tené en cuenta
+Además, el consumo de refrescos se asocia con un mayor
+riesgo de caries dental y una reducción de la resistencia ósea.
+Por otro lado, las bebidas saborizadas con edulcorantes «bajos
+o sin calorías» tampoco son una opción saludable. El consumo
+habitual de estos productos aumenta nuestra preferencia
+por el sabor dulce. Esto es particularmente importante en
+niños, adolescentes y jóvenes, ya que desarrollan preferencia
+por bebidas dulces, rechazando el agua y resultándoles
+difícil disfrutar el sabor de las frutas naturales. Por tanto, los
+productos con edulcorantes no tienen efecto protector contra
+el aumento de peso y la obesidad, sino que están asociados
+con un mayor riesgo.
+Por eso te recomendamos que prefieras siempre el agua a
+otras bebidas: no contiene azúcar, edulcorantes, ácidos o
+cafeína.
+¿Le agregarías
+12 cucharaditas
+de azúcar a tu
+bebida?
+
+-- 67 of 102 --
+
+70 GUÍA ALIMENTARIA
+1 medida = 10 g de alcohol
+En un mismo día:
+máximo 2 medidas
+En un mismo día:
+máximo 1 medida
+*Whisky, vodka, caña. En el caso del fernet, la equivalencia es igual a la de las bebidas destiladas.
+CERVEZA DESTILADOS*	VINO
+1 lata (330 cc)
+1 medida
+1 copa (140 cc)
+1 medida
+vaso o shot (40 cc)
+1 medida
+Bebidas alcohólicas
+Beber alcohol nunca es totalmente seguro, pero si decidís consumirlo,
+procura hacerlo de forma responsable.
+Los límites para un consumo de bajo riesgo son:
+El consumo excesivo de
+alcohol:
+Alerta
+produce daño en
+órganos como el hígado,
+páncreas, cerebro y
+corazón;
+constituye un factor de
+riesgo de hipertensión
+arterial;
+está asociado al
+desarrollo de varios
+tipos de cáncer.
+Los niños, las mujeres
+embarazadas y en lactancia
+no deben consumir alcohol.
+
+-- 68 of 102 --
+
+71	GUÍA ALIMENTARIA
+2. Incorporá verduras y frutas en todas
+tus comidas. Te ayudará a sentirte bien y
+mantener un peso adecuado.
+Las verduras y frutas nos ayudan a mantener un peso saludable
+¡y a mejorarlo! Aportan pocas calorías, son ricas en fibras que
+producen saciedad y tienen un efecto positivo sobre el azúcar
+en la sangre que ayuda a controlar el apetito.
+Además, nos protegen de la gran mayoría de las enfermedades
+que hoy más nos afectan. Evitan el aumento de las grasas en
+sangre, mejoran la hipertensión arterial y previenen la diabetes,
+las enfermedades cardiovasculares y algunos tipos de cáncer.
+Las verduras y frutas ayudan a eliminar sustancias tóxicas,
+mejoran el control de la glicemia, mantienen un tránsito
+intestinal saludable y cooperan en el desarrollo de la flora
+intestinal, que favorece la protección e inmunidad.
+Además, sus sustancias bioactivas actúan como
+antioxidantes con propiedades antinflamatorias que previenen
+enfermedades.
+Algunas frutas y verduras como el ajo, la cebolla y el puerro
+tienen efecto protector sobre diversos tipos de cánceres de
+ubicación digestiva y otros como los de próstata y pulmón.
+Sustancias bioactivas: cumplen funciones que promueven la buena salud.
+Contribuyen a la prevención del cáncer, las enfermedades del corazón y otras
+enfermedades.
+
+-- 69 of 102 --
+
+72 GUÍA ALIMENTARIA
+Todas las frutas y verduras contienen fibras, vitaminas, minerales y otras sustancias bioactivas
+que protegen tu salud. Pero el contenido varía significativamente entre unas y otras. Algunas
+son muy ricas en vitamina C, otras en vitamina A y E, mientras que otras contienen grandes
+cantidades de potasio. Por eso, lo más conveniente es que elijas variedad de verduras y frutas de
+distintos colores.
+Las legumbres, como las lentejas, los porotos, los garbanzos, las habas, las arvejas y el chícharo,
+también forman parte de este grupo. Ello es porque contienen abundantes fibras, vitaminas
+del complejo B como el folato, minerales como hierro, magnesio y zinc, y sustancias bioactivas
+como antioxidantes y fitoestrógenos. Además, el hierro que contienen se absorbe mejor cuando
+se consumen con las demás verduras y frutas que contienen vitamina C. Al ser pobres en grasas
+y con alto contenido de fibras, aportan una cantidad moderada de calorías, pero tienen un alto
+poder de saciedad, que evita que comamos más de lo necesario. De ese modo, las legumbres, al
+igual que las verduras y las frutas, ayudan a sentirse bien y a mantener un peso adecuado.
+El durazno, la ciruela, la palta, los espárragos, la espinaca, la acelga, la remolacha y el brócoli son ricos en la vitamina E,
+que es un potente antioxidante.
+La banana no es la única fuente de potasio; la naranja, el kiwi, el melón, la palta, la remolacha, la espinaca y la acelga
+también son ricos en este mineral que ayuda a regular el balance de agua en el organismo y a mantener la presión arterial
+normal.
+El kiwi, la naranja, el limón, el tomate, el melón, el brócoli, el morrón y el repollo son muy ricos en vitamina C, que
+favorece la absorción del hierro y previene las infecciones y resfríos.
+
+-- 70 of 102 --
+
+73	GUÍA ALIMENTARIA
+Por ello te recomendamos que la mitad de tu plato en tu
+almuerzo y cena lo ocupen las verduras, y que incluyas al
+menos tres frutas a lo largo del día. Si estás lejos de esta meta,
+animate a ir sumando cada día más frutas y verduras. Obtendrás
+efectos positivos para tu salud y bienestar aun con pequeños
+aumentos.
+Consumí las verduras como
+más te gusten: al natural,
+crudas en ensaladas, hervidas,
+al horno, al vapor o a la parrilla.
+Evitá consumirlas fritas.
+Recordá
+Fibras: no se digiere, retiene agua y fermenta en el intestino y mejora la
+inmunidad.
+Vitamina C: o ácido ascórbico, actúa como antioxidante, protegiendo las
+células contra los daños causados por los radicales libres.
+Hierro: mineral que forma parte de los glóbulos rojos y transporta oxígeno por
+la sangre.
+Las papas se metabolizan
+de forma similar al arroz,
+el pan y los fideos. Por ello
+no la incluimos en estas
+recomendaciones.
+Tené en cuenta
+almuerzo	almuerzo
+MEDIO PLATO
+de verduras en el MEDIO PLATO
+de verduras en la
+cena
+frutas
+en el día salud y
+bienestar
++ + 3 +=
+
+-- 71 of 102 --
+
+74 GUÍA ALIMENTARIA
+La mayoría de nosotros conocemos los beneficios de consumir
+al menos cinco verduras y frutas al día. Pero saberlo y hacerlo
+son cosas distintas. A continuación, te damos algunas ideas que
+te pueden ayudar para aumentar su consumo:
+Comenzá cada día con una fruta natural en tu desayuno.
+Cuando sientas hambre, consumí una fruta. Llevala al trabajo o al lugar de
+estudio y comela a media mañana o tarde.
+Las frutas secas —como las pasas de uva, las ciruelas o los orejones—son una
+buena y práctica opción, ya que son fáciles de llevar y se conservan bien.
+De postre, elegí frutas frescas, ensalada de frutas o fruta trozada con yogurt bajo
+en grasas y azúcar. Las manzanas, membrillos, peras y duraznos asados son otra
+buena alternativa y se preparan en el microondas en muy poco tiempo.
+Prepará y guardá en la heladera ensaladas con las frutas frescas que tengas en
+casa, y agregales jugo de naranja o limón para evitar que se pongan oscuras. No
+es necesario que les agregues azúcar.
+Prepará sopa con todo tipo de verduras. La podés hacer una vez a la semana y
+congelarla en pequeñas porciones para el resto de los días.
+Aumentá al doble el tamaño de la porción de verduras que comés
+habitualmente. Podés agregarlas a las pastas, guisos, estofados, polenta, puré y
+tortillas. Sé creativo: cebollas, puerros, chauchas, tomates, morrones, zanahorias,
+berenjenas, zapallitos, zuchini, calabazas, espinaca, acelga, repollo y brócoli son
+solo algunas de las opciones.
+Cuando prepares refuerzos, sándwiches o bocatas, agregale verduras como
+lechuga, tomate, cebollita de verdeo, pepino, zanahoria y repollo. Probá
+agregarle berenjenas y zuchinis saltados a la plancha o al horno.
+Las verduras y frutas congeladas en su estado natural preservan su valor
+nutricional y son una buena solución si tenés poco tiempo.
+Una ensalada verde o una sopa de verduras antes de las comidas es una buena
+opción para tener menos apetito.
+
+-- 72 of 102 --
+
+75	GUÍA ALIMENTARIA
+Algunos consejos para que tu compra de verduras y frutas
+sea más accesible:
+Consumí verduras y frutas en su estación,
+ya que son más ricas y nutritivas ¡y más
+baratas! Para estar informado acerca de
+qué productos son los recomendados de
+la semana del Mercado Modelo, podés
+suscribirte sin costo en
+www.mercadomodelo.net y recibir la
+información en tu email.
+Planificá tus compras de acuerdo a lo
+que vayas a consumir en la semana,
+para asegurarte variedad y el mejor
+aprovechamiento de lo que adquieras.
+Podés comprar morrón, brócoli, coliflor,
+acelga, espinaca, arvejas, habas, perejil,
+albahaca, puerro, cebolla y cebolla de
+verdeo en cantidad, lavarlas de forma
+adecuada y congelarlas.
+Tratá de realizar las compras en mercados,
+puestos y ferias, que generalmente
+ofrecen precios más convenientes ¡Son un
+paseo para la vista y el olfato! Y además,
+como basan su oferta en alimentos
+naturales, no nos vemos tan tentados
+a adquirir productos ultraprocesados
+que compramos por impulso, no son
+saludables y no necesitamos. Si podés
+comprar directamente a los productores,
+¡mucho mejor!
+No siempre mayor precio es igual a mejor
+calidad. Podemos encontrar a un precio
+más accesible verduras y frutas de formas
+o tamaños diferentes al estándar, pero que
+tienen el mismo valor nutricional y son
+igual de ricas.
+
+-- 73 of 102 --
+
+76 GUÍA ALIMENTARIA
+
+-- 74 of 102 --
+
+77	GUÍA ALIMENTARIA
+
+-- 75 of 102 --
+
+78 GUÍA ALIMENTARIA
+
+-- 76 of 102 --
+
+79	GUÍA ALIMENTARIA
+
+-- 77 of 102 --
+
+80 GUÍA ALIMENTARIA
+3. Elegí aceite para tus preparaciones
+en lugar de otras grasas. Evitá comprar
+productos con excesiva cantidad de grasas
+y especialmente los que contengan grasas
+trans.
+Los lípidos que conocemos comúnmente como grasas y aceites
+son componentes importantes de la alimentación y es muy
+cierto que una determinada cantidad es indispensable. Lo que
+sucede es que, en general, están presentes en exceso en la
+comida de los uruguayos.
+Además de moderar la cantidad que consumimos, es
+importante tener en cuenta que no todos los lípidos
+son iguales. Existen grandes diferencias en cómo están
+compuestos y, por lo tanto, en los efectos que tienen sobre
+nuestra salud. Debemos cuidar su calidad.
+Las grasas buenas
+Los aceites que utilizamos habitualmente en nuestras cocinas
+—como de girasol, girasol alto oleico, soja, canola, oliva y
+maíz— son ricos en ácidos grasos insaturados que, consumidos
+en cantidades moderadas, protegen la salud.
+En la mesa, es una buena decisión agregar un poco de aceite
+a las comidas, como ensaladas, pastas y arroz, ya que aporta
+grasas buenas y sabor, y brinda saciedad.
+La inclusión de frutos secos y semillas también mejora
+la calidad de tu dieta. Aportan grasas de buena calidad,
+antioxidantes, fibras y muchas vitaminas y minerales. Se
+destacan en especial las nueces, el lino y la chía, que además
+contribuyen a aumentar el consumo de omega 3.
+Tené en cuenta
+El aceite de oliva, en
+especial el virgen,
+además de ser delicioso,
+aporta grasas buenas y
+es rico en antioxidantes
+que nos protegen de la
+aterosclerosis.
+Los omega 3, un tipo
+particular de ácidos
+grasos insaturados,
+se encuentran
+fundamentalmente
+en los pescados
+grasos y contribuyen
+a la prevención
+de enfermedades
+cardiovasculares y de
+otras degenerativas.
+Los aceites de soja
+y canola también
+contienen cierto tipo de
+omega 3.
+
+-- 78 of 102 --
+
+81	GUÍA ALIMENTARIA
+Las grasas malas
+Algunos ácidos grasos saturados aumentan el colesterol
+sanguíneo y el riesgo de sufrir enfermedades cardiovasculares.
+Estos se encuentran en cantidades importantes en alimentos
+de origen animal, como fiambres, embutidos y hamburguesas;
+cortes de carnes «gordos»; en la grasa de vaca, cordero o
+cerdo; en las vísceras y achuras. También están presentes
+en cantidades importantes en productos como bizcochos,
+polvorones, ojitos, masitas, galletería y alfajores.
+Existe otro tipo de grasas aún peores llamadas trans. Estas se
+producen al hidrogenar industrialmente los aceites vegetales
+para la elaboración de margarinas de untar y para ser usados
+como ingrediente de múltiples productos. Algunos ejemplos
+de productos que generalmente contienen este tipo de grasas
+son: galletitas, alfajores, productos de repostería, masas y
+tapas para empanadas y tartas, golosinas, coberturas símil
+chocolate y rellenos.
+Para identificar los productos que contienen grasas trans,
+es útil leer la lista de ingredientes en su etiqueta. Si figuran
+ingredientes como grasa vegetal, aceite vegetal hidrogenado o
+grasa hidrogenada, es probable que el producto las contenga.
+
+-- 79 of 102 --
+
+82 GUÍA ALIMENTARIA
+Es importante tratar de elegir productos con poca cantidad
+de grasas. En la tabla siguiente se indica la cantidad de grasa
+cada 100 gramos de algunos productos para poder comparar y
+elegir.
+15 %
+18 %
+14 %
+23 %
+70 %
+39 %
+34 %
+31 %
+29 %
+5 %
+27 %
+31 %
+27 %
+2,6 %
+Hamburguesas
+Panchos
+Jamón cocido
+Mortadela
+Panceta, tocino
+Longaniza,
+salchichón, salame
+Chorizos
+Pate
+Nuggets
+Carne de vaca
+(nalga)
+Papas fritas
+Queso duro o
+semiduro
+Quesos frescos
+Leche
+Tené en cuenta
+Quitar la grasa visible
+de los cortes de carne
+y retirar la piel del pollo
+antes de la cocción.
+Limitar el consumo de
+fiambres y embutidos.
+Preferir el pan en lugar
+de los bizcochos.
+Identificar los productos
+que contienen grasas
+trans.
+Pan
+Bizcochos
+Ojitos, polvorones
+Galletita al agua
+Galletitas dulces
+Alfajores
+Masitas
+Galletitas rellenas
+Bolsa de papitas
+Chocolates,
+bombones,
+chocolatines
+Otros productos
+para copetín y
+snacks
+Sándwiches
+calientes
+2 %
+30 %
+40 %
+16 %
+17 %
+28 %
+46 %
+28 %
+39 %
+31 %
+55 %
+21 %
+Si bien en otra época se
+pensaba que la sustitución
+de grasas saturadas —por
+ejemplo, de la manteca—
+por grasas parcialmente
+hidrogenadas —como algunas
+margarinas—era una buena
+alternativa, hoy sabemos que
+el efecto de su consumo para
+la salud es aún más perjudicial.
+Existen pruebas concluyentes
+de que el consumo de grasas
+trans aumenta el riesgo de
+accidentes cardiovasculares y
+de otras enfermedades como
+la diabetes.
+Alerta
+Al sustituir en las comidas las grasas saturadas y trans (sólidas)
+por grasas insaturadas (aceites) se disminuyen en sangre los
+niveles de colesterol malo (LDL), mejora la relación entre el
+colesterol total y el colesterol bueno (HDL) y se disminuye el
+riesgo de enfermedades cardíacas.
+Muchas de las recetas que preparamos con manteca,
+margarina o grasa animal, como tortas y galletitas, quedan muy
+bien con aceite. Buscá recetas, ¡probalas y compartilas con
+tus seres queridos!
+Recordá
+
+-- 80 of 102 --
+
+83	GUÍA ALIMENTARIA
+Las frituras
+Cuando hacemos una fritura, el alimento pierde agua y
+absorbe aceite o grasa y, por lo tanto, aporta más calorías que
+contribuyen al aumento de peso. Por ejemplo, una porción de
+papas al horno tiene 150 kcal; en cambio, cuando la freímos
+aumenta a 500 kcal.
+Además, cuando reutilizamos el aceite para hacer papas
+fritas, milanesas, empanadas, nuggets u otras frituras, o
+lo exponemos a tiempos de calentamiento demasiado
+prolongados, este se deteriora y se forman compuestos que
+son perjudiciales para la salud.
+Por estos motivos, te recomendamos que a la hora de cocinar
+prefieras la plancha, hervido, vapor, horno o parrilla. Quedarán
+igual de sabrosas y mucho más saludables. Que la fritura sea la
+excepción.
+Tené en cuenta
+Cuidá que el aceite no se
+recaliente y se queme.
+Descartá el aceite luego
+de su uso.
+Tratá de no reutilizarlo.
+Si hacés frituras recordá tener
+las siguientes precauciones:
+
+-- 81 of 102 --
+
+84 GUÍA ALIMENTARIA
+4. Incluí el pescado al menos una vez a la
+semana y disminuí el consumo de carnes
+procesadas, como fiambres y embutidos.
+Una alimentación variada, saludable y placentera necesita
+incorporar con frecuencia productos del mar.
+El pescado es un alimento esencial para todas las edades, de
+fácil digestión, que aporta proteínas, vitaminas y minerales.
+Contiene una cantidad reducida de grasas, pero de gran valor
+por su aporte de ácidos grasos omega 3 que cumplen un rol
+fundamental para la salud y la prevención de enfermedades.
+En la población adulta, el consumo de pescado —en particular
+de pescados grasos— reduce el riesgo de muerte por
+enfermedad coronaria y probablemente contribuye a prevenir
+algunas enfermedades degenerativas.
+Además, los ácidos grasos omega 3 son esenciales para el
+desarrollo del cerebro, del sistema nervioso y de la retina,
+por lo que su consumo es fundamental especialmente en las
+mujeres embarazadas, lactantes y niños pequeños. Los hijos
+de las mujeres que consumen pescado o mariscos durante
+el embarazo presentan mejores resultados en su desarrollo
+neurológico que los hijos de aquellas que no lo consumen.
+Tené en cuenta
+Las sardinas, el atún, el
+pez espada, el salmón, el
+lenguado, la palometa, la lisa
+y las anchoas se encuentran
+entre las variedades que
+contienen más grasas
+omega 3.
+Los pescados y productos
+de mar contienen los
+ácidos grasos omega 3
+DHA (docosahexaenoico)
+y EPA (eicosapentaenoico).
+El cerebro es un órgano
+constituido principalmente
+por lípidos, de los cuales una
+importante proporción está
+constituida por, precisamente,
+DHA.
+
+-- 82 of 102 --
+
+85	GUÍA ALIMENTARIA
+Seguramente alguna vez
+escuchaste acerca de los
+riesgos de consumir pescado
+durante el embarazo, por la
+posible presencia de mercurio
+y de contaminantes. Sin
+embargo, tenés que saber que,
+los beneficios del consumo
+de pescado y de mariscos en
+mujeres embarazadas superan
+los potenciales riesgos.
+Recordá
+También durante la lactancia el consumo de pescados es
+fundamental, ya que la calidad de las grasas de la leche
+materna depende del tipo de grasas que consume la mujer. Por
+lo que, al consumir pescado se eleva el contenido de omega 3
+de la leche que recibe el bebé.
+Los efectos del consumo de pescado sobre la salud se
+evidencian cuando se consume todas las semanas. Su carne
+es deliciosa y forma parte de los más exquisitos platos de la
+gastronomía mundial. Prepará nuevas recetas con pescado y
+mariscos y compartilas con tus amigos y familia.
+Animate a aumentar la cantidad de pescado en tu dieta, ya sea
+fresco, congelado o enlatado. Protege tu salud y te permite
+preparar deliciosos platos.
+Por otra parte, y como ya se ha dicho, las carnes procesadas
+—como panchos, hamburguesas, jamón, paleta, mortadela,
+salame, lionesa, panceta, paté, chorizos, salchichas y
+morcillas— contienen excesiva cantidad de grasas saturadas y
+sal, lo que hace que su consumo habitual sea perjudicial para la
+salud.
+El exceso de grasas saturadas se deposita en las arterias e
+impide una correcta circulación, lo que propicia la aparición de
+enfermedades cardiovasculares. A ello se le suma la excesiva
+cantidad de sal, que es la principal causa de aumento de la
+presión arterial, y favorece aún más el desarrollo de estas
+enfermedades. Además, el consumo habitual de estas carnes
+procesadas se asocia a ciertos tipos de cáncer.
+Está comprobado que un
+consumo diario de tan solo 50
+gramos de carne procesada ya
+aumenta el riesgo de cáncer
+colorrectal.
+Alerta
+
+-- 83 of 102 --
+
+86 GUÍA ALIMENTARIA
+5. Disminuí la sal y el azúcar para cocinar:
+pequeñas cantidades son suficientes para
+realzar el sabor.
+La sal
+Sin lugar a dudas, cuando cocinamos y le agregamos sal a la
+comida, realzamos su sabor. Sin embargo, la sal debe usarse
+con moderación ya que un consumo por encima de cinco
+gramos al día —equivalente a tan solo a una cucharadita— se
+vincula con el desarrollo de hipertensión arterial.
+En Uruguay, el consumo de sal es muy elevado y la
+hipertensión afecta a casi el 40 % de la población. La
+hipertensión es un factor de riesgo para el desarrollo de
+las enfermedades del corazón, las cuales constituyen la
+primera causa de muerte. Por ello, todos, no solo en personas
+hipertensas, necesitamos reducir la sal.
+La mitad de la sal que consumimos diariamente proviene de la
+que agregamos al cocinar o con el salero en la mesa. El resto
+está oculto en los productos ya elaborados. El queso, queso
+rallado, fiambres, embutidos, snacks, enlatados, galletas y
+galletitas, caldo en cubitos, sopas instantáneas, salsas de soja,
+kétchup y mayonesa, así como también las comidas listas para
+consumir aportan gran cantidad de sal.
+Dada la elevada cantidad de pan que comemos a diario, se está
+promoviendo en nuestro país una estrategia para reducir su
+contenido de sal.
+Hipertensión: enfermedad caracterizada por un incremento continuo de la
+presión que ejerce la sangre sobre las arterias.
+Buscá esta identificación en
+la panadería de tu barrio:
+significa que allí el pan que
+elaboran contiene menos
+sodio.
+
+-- 84 of 102 --
+
+87	GUÍA ALIMENTARIA
+Para realzar el sabor de las comidas, agregá la mínima cantidad
+de sal posible. Dale sabor a tus comidas con cantidades
+generosas de limón, cebolla, puerro, ajo, orégano, laurel,
+perejil, pimienta, cilantro y cualquier otro condimento natural.
+Agregale hierbas aromáticas a los aceites y vinagres: mejorarán
+el sabor de tus comidas.
+Además, dos cucharadas de mayonesa, kétchup o salsa golf, o tan solo una
+cucharada de mostaza, contiene el 10 % del total de la sal que podemos consumir
+por día.
+Por ello te aconsejamos que si consumís estos productos lo hagas solo
+esporádicamente y en pequeñas cantidades.
+
+-- 85 of 102 --
+
+88 GUÍA ALIMENTARIA
+El azúcar
+Se recomienda que el consumo de azúcar sea menor al 10 %
+de las calorías diarias. Esto quiere decir que si necesitás 2000
+calorías, debés consumir menos de 200 calorías provenientes
+del azúcar, lo que equivale a 10 cucharitas diarias. Un consumo
+mayor causa obesidad y sobrepeso, y se relaciona con la
+aparición de enfermedades frecuentes como la resistencia a la
+insulina, la diabetes tipo 2 y, por supuesto, las caries.
+Llamativamente, con los hábitos alimentarios actuales,
+la mayor parte del azúcar que consumimos no está en el
+azucarero, sino oculta en productos como galletitas, alfajores,
+budines, barras de cereales, cereales de desayuno, jugos
+industrializados, refrescos y otras bebidas azucaradas. Estos
+productos contienen azúcar bajo otros nombres —como
+sacarosa, fructosa, glucosa, jarabe de maíz de alta fructosa,
+jarabe de arroz, melaza—. Todos ellos son azúcares agregados
+por la industria para dar sabor y para que los productos se
+conserven por más tiempo.
+La sal y el azúcar utilizados como ingredientes no son dañinos
+para la salud por sí solos. Es la cantidad que utilizamos lo
+que debemos cuidar. Si consumimos menos sal y azúcar, la
+preferencia por los sabores salado y dulce va disminuyendo, y
+paulatinamente el paladar se adapta.
+Descubrir y disfrutar del sabor propio de los alimentos
+naturales vale la pena. Acostumbrarse a los nuevos sabores
+lleva un tiempo, pero ¡vas a ver que es posible!
+Recordá
+
+-- 86 of 102 --
+
+89	GUÍA ALIMENTARIA
+Para prevenir el exceso de peso se recomienda consumir
+menos de 10 cucharaditas de azúcar por día.
+Ahora imaginate cómo inciden estos números en el caso de
+un niño, que precisa ingerir menos calorías diarias.
+Números
+que importan
+
+-- 87 of 102 --
+
+90 GUÍA ALIMENTARIA
+
+-- 88 of 102 --
+
+91	GUÍA ALIMENTARIA
+La higiene de los alimentos
+para una vida más sana
+
+-- 89 of 102 --
+
+92 GUÍA ALIMENTARIA
+Existen microorganismos como bacterias, virus y hongos —que se encuentran en el suelo,
+el agua, los animales y las personas— que provocan enfermedades. A través de las manos,
+los paños de limpieza y los utensilios, pueden transferirse a los alimentos y provocar las
+denominadas enfermedades de transmisión alimentaria.
+La Organización Mundial de la Salud (OMS) ha definido cinco recomendaciones básicas para que
+los alimentos sean inocuos y no causen enfermedades por un manejo inadecuado.
+
+-- 90 of 102 --
+
+93	GUÍA ALIMENTARIA
+Tené en cuenta
+Un error muy común es
+cortar un alimento cocido en
+una tabla o con un utensilio
+que fue usado para cortar
+un alimento crudo. De
+esta manera, los microbios
+vivos del alimento crudo
+pasan al cocido, que va a ser
+consumido.
+También la contaminación
+se produce cuando no nos
+lavamos las manos luego de
+manipular carnes o huevos
+crudos y tocamos luego un
+alimento cocido.
+1. Mantené la limpieza
+Para que un alimento no nos ocasione una enfermedad
+debemos cuidar la higiene desde la compra hasta su consumo.
+El lavado de manos con agua y jabón debe realizarse siempre
+después de ir al baño, y antes y durante la preparación
+alimentos.
+Las superficies y equipos usados en la preparación de
+alimentos deben estar limpios, lavados y desinfectados,
+especialmente la tabla de picar.
+Los insectos, plagas y otros animales pueden contaminar los
+alimentos o la cocina, por lo cual es necesario mantenerlos
+alejados.
+2. Separá los alimentos crudos de los
+cocidos
+Las carnes y huevos pueden contener microbios peligrosos, que
+pueden transferirse a otros alimentos; por esta razón, debemos
+tener especial atención durante su preparación y conservación.
+Existe riesgo de contaminación cruzada: esto significa que
+puede haber transferencia de microbios de alimentos crudos a
+alimentos cocidos que van a ser consumidos. Una vez cocidas,
+las carnes no presentan este riesgo.
+Para evitar la contaminación, es preciso separar las carnes rojas,
+la carne de ave y el pescado crudos de los demás alimentos, y
+usar equipos y utensilios diferentes —como cuchillos y tablas
+de cortar— para manipular alimentos crudos.
+Además, se deben conservar los alimentos en recipientes
+separados para evitar el contacto entre los crudos y los
+cocidos.
+
+-- 91 of 102 --
+
+94 GUÍA ALIMENTARIA
+3. Cociná completamente los alimentos
+La temperatura considerada de peligro para el desarrollo
+de microbios peligrosos se encuentra entre los 5° y 60 °C .
+Casi todos son destruidos al cocinar los alimentos hasta que
+alcancen una temperatura de 70 °C.
+Por esta razón, debemos cocinar completamente los
+alimentos, en especial las carnes rojas, el pollo, el pescado
+y los huevos. Los jugos de las carnes deben ser claros y no
+rosados.
+Si se va a recalentar un alimento, es necesario asegurarse de
+llevarlo nuevamente a una temperatura por encima de los
+60 °C.
+4. Mantené los alimentos a temperaturas
+seguras
+Si los alimentos cocidos permanecen a temperatura ambiente
+durante más de dos horas, los microbios se pueden multiplicar
+con mucha rapidez. Para evitar que esto suceda es necesario:
+refrigerar lo antes posible los alimentos
+cocidos y los perecederos como frutas y
+verduras (preferiblemente por debajo de los
+5 °C);
+mantener la comida muy caliente (a más de
+60 °C) antes de servir;
+no guardar alimentos durante mucho tiempo,
+aunque sea en el refrigerador.
+Los alimentos deben
+mantenerse a temperaturas
+inferiores a los 5 °C o
+superiores a los 60 °C para que
+el crecimiento microbiano se
+enlentezca o se detenga.
+Recordá
+
+-- 92 of 102 --
+
+95	GUÍA ALIMENTARIA
+usar agua potable para lavar y cocinar los
+alimentos, así como también para preparar
+hielo;
+elegir alimentos sanos y frescos;
+lavar las frutas y verduras, en especial si se van
+a comer crudas;
+no utilizar alimentos pasada su fecha de
+vencimiento.
+Las frutas y verduras se
+desinfectan correctamente
+en una solución de agua
+con hipoclorito de sodio (1
+cucharita = 5 ml de hipoclorito
+de sodio por litro de agua)
+durante 30 minutos, y luego
+deben enjuagarse.
+Recordá
+5. Usá agua potable y alimentos en buen
+estado
+Los alimentos, el agua y el hielo pueden estar contaminados
+con microbios o productos químicos tóxicos presentes en
+alimentos dañados. Para evitar que esto suceda es necesario:
+
+-- 93 of 102 --
+
+96 GUÍA ALIMENTARIA
+El ícono: una herramienta
+para ayudar a alimentarnos de
+forma saludable, compartida y
+placentera.
+Las 11 claves de la Guía Alimentaria para
+la Población Uruguaya se acompañan de
+una representación gráfica: el Ícono para
+una alimentación saludable, compartida y
+placentera. Este ícono refleja tres aspectos
+fundamentales:
+Comé sano.
+Disfrutá de la comida.
+Movete.
+Ha sido diseñado especialmente para nuestro país y fue elegido
+como la mejor opción por un amplio grupo, conformado por
+más de 600 personas de distintas edades que participaron en
+la consulta. La mayoría de las personas eligió este ícono porque
+transmite la idea de «lo que hay que consumir y cuánto» de
+manera «clara», «fácil de entender» y «organizada».
+
+-- 94 of 102 --
+
+97	GUÍA ALIMENTARIA
+M
+O
+V
+E
+T
+E
+D 	E 	L 	A 	C 	O 	M I D 	A
+C O 	M 	É 	S A 	N 	O 	Y 	D I S F R 	U 	T Á
+¡DISFRUTÁ DE LA COMIDA, COMÉ SANO Y MOVETE!
+Si estás lejos de esta meta recordá que con pequeños cambios ya se logran efectos positivos.
+¿Qué vas a hacer hoy para acercarte a la meta?
+AGUA
+P A 	N 	E 	S , 	H 	A 	R I 	N 	A 	S , 	P 	A 	S 	T 	A 	S , 	A 	R 	R 	O 	Z 	Y 	P 	A 	P 	A 	S
+L
+E
+C
+H
+E
+S
+Y
+Q
+U
+E
+S
+O
+S
+V
+E
+R
+D
+U
+R
+A
+S
+Y
+L
+E
+G
+U
+M
+B
+R
+E
+S
+FRUT
+A
+S
+Una alimentación saludable, compartida y placentera nos da bienestar y
+si le sumamos actividad física en forma habitual nos sentiremos ¡mucho mejor!
+Te mostramos los diferentes grupos de
+alimentos y en qué proporción los
+deberías consumir. Tratá de
+lograrlo a lo largo del día.
+A
+C
+E
+I
+T
+E
+S
+Y
+C
+A
+R
+N
+E
+S
+,
+P
+E
+S
+C
+A
+D
+O
+S
+Y
+H
+U
+E
+V
+O
+S
+S
+E
+M
+I
+L
+L
+A
+S
+Y
+A
+C
+E
+I
+T
+E
+S
+A
+Z
+Ú
+C
+A
+R
+Y
+D
+U
+L
+C
+E
+S
+EVITÁ EN EL DÍA A DÍA PRODUCTOS COMO:
+Papas fritas	Nuggets, panchos, hamburguesas y fiambres	Refrescos, jugos artificiales y aguas saborizadas
+Snacks	Alfajores y galletitas rellenas	Helados y golosinas	Caldos, sopas instantáneas y aderezos
+ACTIVIDAD FÍSICA SAL Y AZÚCAR
+
+-- 95 of 102 --
+
+98 GUÍA ALIMENTARIA
+Comé sano
+La alimentación saludable se alcanza combinando una gran
+variedad de alimentos naturales de origen vegetal, junto con
+algunos alimentos naturales de origen animal y cantidades
+moderadas de alimentos procesados.
+En el círculo se muestran los siete diferentes grupos de
+alimentos y en qué proporción los debemos consumir. Es
+importante tener en cuenta que no es necesario incluir
+alimentos de cada grupo en cada una de las comidas, sino que
+debemos intentar alcanzar este balance a lo largo del día.
+Ocupando el lugar central del círculo y rodeada de los grupos
+de alimentos se encuentra el agua. Al darle esa ubicación
+de privilegio, se intenta reflejar la importancia que posee el
+agua en nuestra alimentación, ya que se trata de un elemento
+esencial para la vida. El agua constituye más de la mitad
+del peso del organismo de una persona adulta y es tal su
+importancia que los humanos logramos sobrevivir tan solo
+unos días sin consumirla.
+
+-- 96 of 102 --
+
+99	GUÍA ALIMENTARIA
+Los grupos de alimentos
+Verduras y legumbres
+Le llamamos verduras a las plantas
+comestibles cultivadas en la huerta, que
+incluyen algunos frutos, hojas, raíces, tallos y
+flores. Se caracterizan por tener un bajo aporte
+de calorías y la mayoría no contiene casi grasa.
+Su principal valor nutricional es su alto aporte
+de fibra, así como de diversos minerales entre
+los que se destaca el potasio, y vitaminas como
+la A, B, y C, y en algunos casos también las
+vitaminas E y K. Además, aportan sustancias
+químicas fundamentales como compuestos
+bioactivos, como los antioxidantes que nos
+protegen contra enfermedades.
+Las legumbres son los frutos o semillas que
+crecen en vainas. Los tipos más conocidos y
+consumidos en Uruguay son las lentejas, los
+porotos, los garbanzos, las habas, las arvejas y
+el chícharo. Son una fuente rica de proteínas,
+fibras, vitaminas del complejo B, como el
+folato, minerales como hierro, magnesio y zinc,
+así como también de sustancias bioactivas
+como antioxidantes y fitoestrógenos.
+Combinadas con alimentos que contengan
+vitamina C se mejora la absorción del hierro
+que contienen. Al ser pobres en grasas y con
+alto contenido de fibras, aportan una cantidad
+moderada de calorías, pero tienen un alto
+poder de saciedad, que evita que comamos
+más de lo necesario.
+Frutas
+Las frutas son el fruto comestible de muchas
+plantas. Al igual que las verduras y legumbres,
+son alimentos muy saludables ya que son
+excelentes fuentes de fibras, de vitaminas y
+minerales, de agua y de varios compuestos
+que contribuyen a prevenir muchas de las
+enfermedades que hoy nos afectan. Para
+aprovechar todos sus beneficios es importante
+consumir la fruta y no solo su jugo.
+Panes, harinas, pastas, arroz y papas
+Este grupo está conformado por una
+diversidad de alimentos que se caracterizan
+por su aporte de hidratos de carbono.
+Pertenecen a este grupo diversos cereales
+como arroz, avena, maíz, trigo y centeno, y sus
+derivados, como las harinas.
+También forman parte de este grupo los
+productos elaborados con ellas, tales como
+los fideos, las pastas simples y los panes
+como el pan francés (flauta, felipe, porteño o
+marsellés). Al elegir las variedades integrales
+se obtiene un mayor aporte de fibra, minerales,
+vitaminas y sustancias bioactivas.
+Las papas y otras raíces y tubérculos, como el
+boniato o la yuca, se encuentran en este grupo,
+ya que también se caracterizan por su aporte
+de hidratos de carbono. Cabe destacar que el
+boniato es rico en vitamina A y en fibra soluble
+como la pectina, que mejora la inmunidad.
+
+-- 97 of 102 --
+
+100 GUÍA ALIMENTARIA
+Leches y quesos
+Este grupo incluye la leche y sus derivados
+fermentados, como los yogures y los quesos.
+Se caracteriza por aportar proteínas de alta
+calidad, vitaminas —en particular la A—, y
+por ser la principal fuente de calcio de la
+alimentación.
+Los quesos contienen, de forma concentrada,
+la mayor parte de los nutrientes de la leche;
+en general, son de alto contenido de grasas
+saturadas y sodio, por lo que se recomienda
+optar por aquellos con menor contenido en
+grasa y sal.
+Carnes, pescados y huevos
+Este grupo incluye carnes de vaca, cerdo,
+cordero, aves, pescados y huevos. La
+característica principal de las carnes es ser
+fuente de proteínas de alta calidad biológica,
+además de aportar minerales como hierro y
+zinc, y vitamina B12.
+Algunos cortes de carne de vaca, cordero
+y cerdo, al igual que el pollo, presentan
+una proporción elevada de grasas que no
+son saludables: las grasas saturadas. Por el
+contrario, el pescado tiene un menor aporte
+de grasas y un tipo de grasas beneficiosas para
+la salud, llamadas omega 3.
+El huevo es también una excelente fuente de
+proteínas de buena calidad, rico en minerales y
+vitaminas del complejo B.
+Aceites y semillas
+En este grupo se incluyen los aceites de
+girasol, arroz, maíz, soja, canola y oliva.
+También las semillas como las de girasol, lino,
+zapallo, chía, sésamo, amapola, y los frutos
+secos como almendras, avellanas, castañas,
+castañas de cajú, nueces y maní.
+Se caracterizan por ser ricos en grasas
+insaturadas beneficiosas para la salud. Como
+son una fuente muy concentrada de energía su
+consumo debe ser en cantidades moderadas.
+Azúcar y dulces
+Este grupo de alimentos comprende azúcar,
+miel, dulces y mermeladas de frutas. Por
+su alto contenido en azúcares simples, su
+consumo debe restringirse a cantidades muy
+limitadas, ya que además no nos ofrecen
+sustancias nutritivas indispensables.
+
+-- 98 of 102 --
+
+101	GUÍA ALIMENTARIA
+Los productos que debemos evitar consumir en el día a día
+Además de los alimentos que integran los siete grupos, existen
+otros productos alimenticios que se caracterizan por su alto
+contenido de azúcares, grasas o sal. Los principales productos
+que integran este grupo y que los uruguayos, en general,
+consumimos frecuentemente se incluyen en la parte inferior
+del ícono:
+Papas fritas.
+Nuggets, panchos, hamburguesas y fiambres.
+Snacks.
+Caldos, sopas instantáneas y aderezos.
+Refrescos, jugos artificiales y aguas saborizadas.
+Alfajores y galletitas rellenas.
+Helados y golosinas.
+
+-- 99 of 102 --
+
+102 GUÍA ALIMENTARIA
+Disfrutá de la comida
+Rodeando la parte inferior del círculo se
+observa una serie de figuras que nos recuerdan
+que no solo importa lo que comemos, sino
+también cómo lo hacemos.
+Compartir las responsabilidades con los demás
+integrantes del hogar, desde la planificación de
+la compra hasta la preparación de las comidas,
+nos ayuda a que la tarea sea más sencilla para
+todos.
+La comida casera elaborada en base a
+alimentos naturales es la opción más
+saludable y amplía el abanico de posibilidades
+para alimentarnos más sano.
+Compartir la comida con familia, amigos
+y compañeros de trabajo permite que
+el momento de comer recupere otros
+significados que se están perdiendo y que es
+importante transmitir a los más chicos, quienes
+están construyendo sus hábitos y estilos de
+vida. Evitá distracciones como el celular y el
+televisor, sentate en una mesa, y utilizá platos
+y cubiertos.
+Esto nos permite aminorar la marcha,
+disfrutar de la comida y comer más despacio,
+reconociendo de forma más adecuada las
+señales que el cuerpo nos da; seguramente así
+comamos cantidades más acordes a nuestras
+necesidades.
+Movete
+Rodeando la parte superior del círculo se
+observa una serie de figuras que nos recuerdan
+que además de alimentarnos de forma
+saludable debemos mantenernos activos
+todos los días.
+Es fundamental no ser sedentarios y encontrar
+oportunidades para movernos en las acciones
+más sencillas y cotidianas de nuestro día.
+Pasear a las mascotas, barrer, subir por
+escaleras, utilizar circuitos aeróbicos, andar en
+bicicleta, caminar, trotar, correr, bailar, saltar a
+la cuerda o jugar a la pelota son algunas de las
+actividades que podemos realizar para agregar
+movimiento a nuestra rutina. Compartir
+actividades de juego con los más chicos
+también es una buena oportunidad.
+
+-- 100 of 102 --
+
+103	GUÍA ALIMENTARIA
+EN TU DÍA A DÍA
+Disfrutá la comida: comé despacio y,
+cuando puedas, hacelo en compañía.
+Basá tu alimentación en alimentos
+naturales y evitá el consumo de
+productos ultraprocesados en el día a
+día, con excesiva cantidad de grasas,
+azúcar y sal.
+Comenzá el día con un buen
+desayuno y no te saltees comidas.
+Cocinar nuestros propios alimentos
+hace bien: descubrí el gusto por
+la cocina y que sea una actividad
+compartida.
+Sé crítico con la información y los
+mensajes publicitarios que recibes
+sobre alimentación.
+Acumulá al menos dos horas y media
+de actividad física por semana y
+disminuí el tiempo que permanecés
+sentado.
+EN TU MESA
+Preferí siempre el agua a otras
+bebidas. Limitá los refrescos, los jugos
+artificiales y las aguas saborizadas.
+Incorporá verduras y frutas en todas
+tus comidas. Te ayudará a sentirte
+bien y mantener un peso adecuado.
+Elegí aceite para tus preparaciones
+en lugar de otras grasas. Evitá
+comprar productos con excesiva
+cantidad de grasas y especialmente
+los que contengan grasas trans.
+Incluí el pescado al menos una vez a
+la semana y disminuí el consumo de
+carnes procesadas, como fiambres y
+embutidos.
+Disminuí la sal y el azúcar para
+cocinar: pequeñas cantidades son
+suficientes para realzar el sabor.
+Las 11 claves para alcanzar una alimentación
+saludable, compartida y placentera:
+
+-- 101 of 102 --
+
+
+
+-- 102 of 102 --
+
